@@ -1,3 +1,8 @@
+# připrav_data.py
+# Systémové vytvoření rodokmen_data.json z ODS + GEDCOM.
+# Přesná shoda s oficiálním GEDCOM jménem má přednost před
+# shodou vzniklou pouze z vdaného příjmení.
+
 import json,re,unicodedata
 from collections import defaultdict
 from pathlib import Path
@@ -53,14 +58,16 @@ def parse_ged(path):
     return people,families
 
 people,families=parse_ged(GED)
-# indexes using official GED name and married surname variants
-idx=defaultdict(list)
+# Indexes are intentionally separated:
+# official GEDCOM name has priority over a married-name variant.
+exact_idx=defaultdict(list)
+married_idx=defaultdict(list)
 for pid,p in people.items():
-    variants=[p['name'], (p['given']+' '+p['surname']).strip()]
-    for ms in p['married_names']:
-        variants.append((p['given']+' '+ms).strip())
-    for v in variants:
-        if v: idx[norm(v)].append(pid)
+    for v in [p["name"], (p["given"]+" "+p["surname"]).strip()]:
+        if v: exact_idx[norm(v)].append(pid)
+    for ms in p["married_names"]:
+        v=(p["given"]+" "+ms).strip()
+        if v: married_idx[norm(v)].append(pid)
 
 # ODS populated cells, preserving duplicates as distinct nodes
 sheet=pd.read_excel(ODS,engine='odf',header=None)
@@ -74,9 +81,27 @@ for r,row in sheet.iterrows():
         nodes.append({'id':nid,'name':re.sub(r'\s+',' ',s),'row':int(r),'col':int(c)})
         cell_to_id[(int(r),int(c))]=nid
 
-# Match GED records. Exact normalized name or married-name variant; ambiguous is left unresolved.
+# Match GED records.
+# Exact official GEDCOM name always wins over a married-name-only match.
 for n in nodes:
-    cands=list(dict.fromkeys(idx.get(norm(n['name']),[])))
+    key=norm(n['name'])
+    exact=list(dict.fromkeys(exact_idx.get(key,[])))
+    married=list(dict.fromkeys(married_idx.get(key,[])))
+    if len(exact)==1:
+        cands=exact
+        n['match_type']='exact'
+    elif len(exact)>1:
+        cands=exact
+        n['match_type']='ambiguous'
+    elif len(married)==1:
+        cands=married
+        n['match_type']='married'
+    elif len(married)>1:
+        cands=married
+        n['match_type']='ambiguous'
+    else:
+        cands=[]
+        n['match_type']='unmatched'
     n['ged_ids']=cands
     n['ged_id']=cands[0] if len(cands)==1 else None
     if n['ged_id']:

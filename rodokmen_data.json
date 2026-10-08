@@ -9,6 +9,7 @@
         "@I500050@"
       ],
       "ged_id": "@I500050@",
+      "match_type": "exact",
       "info": {
         "name": "Pavel /Olšak/",
         "given": "Pavel",
@@ -31,6 +32,7 @@
         "@I500523@"
       ],
       "ged_id": "@I500523@",
+      "match_type": "married",
       "info": {
         "name": "Julie /Olšaková/",
         "given": "Julie",
@@ -55,6 +57,7 @@
         "@I500525@"
       ],
       "ged_id": "@I500525@",
+      "match_type": "exact",
       "info": {
         "name": "Žofie /Gřibovská/",
         "given": "Žofie",
@@ -77,6 +80,7 @@
         "@I500527@"
       ],
       "ged_id": "@I500527@",
+      "match_type": "exact",
       "info": {
         "name": "Anežka /Gřibovská/",
         "given": "Anežka",
@@ -99,6 +103,7 @@
         "@I500528@"
       ],
       "ged_id": "@I500528@",
+      "match_type": "exact",
       "info": {
         "name": "Josef /Gřibovský/",
         "given": "Josef",
@@ -121,6 +126,7 @@
         "@I500529@"
       ],
       "ged_id": "@I500529@",
+      "match_type": "exact",
       "info": {
         "name": "Marie /Gřibovská/",
         "given": "Marie",
@@ -143,6 +149,7 @@
         "@I500530@"
       ],
       "ged_id": "@I500530@",
+      "match_type": "exact",
       "info": {
         "name": "Johanna /Gřibovská/",
         "given": "Johanna",
@@ -165,6 +172,7 @@
         "@I500531@"
       ],
       "ged_id": "@I500531@",
+      "match_type": "exact",
       "info": {
         "name": "Františka /Gřibovská/",
         "given": "Františka",
@@ -187,6 +195,7 @@
         "@I500524@"
       ],
       "ged_id": "@I500524@",
+      "match_type": "married",
       "info": {
         "name": "Anežka /Olšáková/",
         "given": "Anežka",
@@ -211,6 +220,7 @@
         "@I500532@"
       ],
       "ged_id": "@I500532@",
+      "match_type": "exact",
       "info": {
         "name": "Alois /Václavek/",
         "given": "Alois",
@@ -233,6 +243,7 @@
         "@I500535@"
       ],
       "ged_id": "@I500535@",
+      "match_type": "married",
       "info": {
         "name": "Libuše /Václavková/",
         "given": "Libuše",
@@ -257,6 +268,7 @@
         "@I500537@"
       ],
       "ged_id": "@I500537@",
+      "match_type": "exact",
       "info": {
         "name": "Ivan /Gnida/",
         "given": "Ivan",
@@ -279,6 +291,7 @@
         "@I500635@"
       ],
       "ged_id": "@I500635@",
+      "match_type": "exact",
       "info": {
         "name": "Ellen /Gnidová/",
         "given": "Ellen",
@@ -301,6 +314,7 @@
         "@I500539@"
       ],
       "ged_id": "@I500539@",
+      "match_type": "exact",
       "info": {
         "name": "Libor /Gnida/",
         "given": "Libor",
@@ -323,6 +337,7 @@
         "@I500534@"
       ],
       "ged_id": "@I500534@",
+      "match_type": "married",
       "info": {
         "name": "Aloisie /Václavková/",
         "given": "Aloisie",
@@ -347,6 +362,7 @@
         "@I500540@"
       ],
       "ged_id": "@I500540@",
+      "match_type": "exact",
       "info": {
         "name": "Jarmil /Kokošínský/",
         "given": "Jarmil",
@@ -369,6 +385,7 @@
         "@I500542@"
       ],
       "ged_id": "@I500542@",
+      "match_type": "married",
       "info": {
         "name": "Alena /Kokošínská/",
         "given": "Alena",
@@ -393,6 +410,7 @@
         "@I500544@"
       ],
       "ged_id": "@I500544@",
+      "match_type": "exact",
       "info": {
         "name": "Lucie /Melišová/",
         "given": "Lucie",
@@ -415,6 +433,7 @@
         "@I500546@"
       ],
       "ged_id": "@I500546@",
+      "match_type": "exact",
       "info": {
         "name": "Zdeněk /Meliš/",
         "given": "Zdeněk",
@@ -437,6 +456,7 @@
         "@I500547@"
       ],
       "ged_id": "@I500547@",
+      "match_type": "married",
       "info": {
         "name": "Jarmila /Kokošínská/",
         "given": "Jarmila",
@@ -459,6 +479,7 @@
       "col": 5,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -470,6 +491,7 @@
         "@I500550@"
       ],
       "ged_id": "@I500550@",
+      "match_type": "exact",
       "info": {
         "name": "Ludvík /Václavek/",
         "given": "Ludvík",
@@ -492,6 +514,7 @@
         "@I500552@"
       ],
       "ged_id": "@I500552@",
+      "match_type": "married",
       "info": {
         "name": "Jarmila /Václavková/",
         "given": "Jarmila",
@@ -516,6 +539,7 @@
         "@I500559@"
       ],
       "ged_id": "@I500559@",
+      "match_type": "exact",
       "info": {
         "name": "Otakar /Urbanec/",
         "given": "Otakar",
@@ -538,6 +562,7 @@
         "@I500562@"
       ],
       "ged_id": "@I500562@",
+      "match_type": "exact",
       "info": {
         "name": "Eva /Urbancová/",
         "given": "Eva",
@@ -560,6 +585,7 @@
         "@I500626@"
       ],
       "ged_id": "@I500626@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Brzezina/",
         "given": "Jan",
@@ -582,6 +608,7 @@
         "@I500628@"
       ],
       "ged_id": "@I500628@",
+      "match_type": "exact",
       "info": {
         "name": "Adéla /Demlová/",
         "given": "Adéla",
@@ -604,6 +631,7 @@
         "@I500564@"
       ],
       "ged_id": "@I500564@",
+      "match_type": "exact",
       "info": {
         "name": "Jana /Urbancová/",
         "given": "Jana",
@@ -626,6 +654,7 @@
         "@I500629@"
       ],
       "ged_id": "@I500629@",
+      "match_type": "exact",
       "info": {
         "name": "Matyáš /Děžinský/",
         "given": "Matyáš",
@@ -648,6 +677,7 @@
         "@I500631@"
       ],
       "ged_id": "@I500631@",
+      "match_type": "exact",
       "info": {
         "name": "Kateřina /Srbová/",
         "given": "Kateřina",
@@ -670,6 +700,7 @@
         "@I500632@"
       ],
       "ged_id": "@I500632@",
+      "match_type": "exact",
       "info": {
         "name": "Medard /Srb/",
         "given": "Medard",
@@ -692,6 +723,7 @@
         "@I500561@"
       ],
       "ged_id": "@I500561@",
+      "match_type": "exact",
       "info": {
         "name": "Stanislav /Urbanec/",
         "given": "Stanislav",
@@ -714,6 +746,7 @@
         "@I500633@"
       ],
       "ged_id": "@I500633@",
+      "match_type": "exact",
       "info": {
         "name": "Veronika /Szotkowská/",
         "given": "Veronika",
@@ -736,6 +769,7 @@
         "@I500554@"
       ],
       "ged_id": "@I500554@",
+      "match_type": "exact",
       "info": {
         "name": "Jaroslav /Václavek/",
         "given": "Jaroslav",
@@ -758,6 +792,7 @@
         "@I500557@"
       ],
       "ged_id": "@I500557@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Václavek/",
         "given": "Martin",
@@ -780,6 +815,7 @@
         "@I500551@"
       ],
       "ged_id": "@I500551@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Václavková/",
         "given": "Marie",
@@ -804,6 +840,7 @@
         "@I500555@"
       ],
       "ged_id": "@I500555@",
+      "match_type": "married",
       "info": {
         "name": "Vlasta /Hrbáčková/",
         "given": "Vlasta",
@@ -828,6 +865,7 @@
         "@I500565@"
       ],
       "ged_id": "@I500565@",
+      "match_type": "married",
       "info": {
         "name": "Pavla /Janečková/",
         "given": "Pavla",
@@ -852,6 +890,7 @@
         "@I500568@"
       ],
       "ged_id": "@I500568@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Žáčková/",
         "given": "Marie",
@@ -876,6 +915,7 @@
         "@I500571@"
       ],
       "ged_id": "@I500571@",
+      "match_type": "exact",
       "info": {
         "name": "Terezie /Fojtová/",
         "given": "Terezie",
@@ -898,6 +938,7 @@
         "@I500602@"
       ],
       "ged_id": "@I500602@",
+      "match_type": "exact",
       "info": {
         "name": "Zuzana /Bierská/",
         "given": "Zuzana",
@@ -920,6 +961,7 @@
         "@I500573@"
       ],
       "ged_id": "@I500573@",
+      "match_type": "exact",
       "info": {
         "name": "Pavel /Fojt/",
         "given": "Pavel",
@@ -942,6 +984,7 @@
         "@I500570@"
       ],
       "ged_id": "@I500570@",
+      "match_type": "married",
       "info": {
         "name": "Jiřina /Žáčková/",
         "given": "Jiřina",
@@ -966,6 +1009,7 @@
         "@I500574@"
       ],
       "ged_id": "@I500574@",
+      "match_type": "exact",
       "info": {
         "name": "Kristina /Miklošová/",
         "given": "Kristina",
@@ -988,6 +1032,7 @@
         "@I500576@"
       ],
       "ged_id": "@I500576@",
+      "match_type": "exact",
       "info": {
         "name": "Anežka /Miklošová/",
         "given": "Anežka",
@@ -1010,6 +1055,7 @@
         "@I500567@"
       ],
       "ged_id": "@I500567@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Janečko/",
         "given": "Petr",
@@ -1032,6 +1078,7 @@
         "@I500047@"
       ],
       "ged_id": "@I500047@",
+      "match_type": "exact",
       "info": {
         "name": "Terezie /Slívová/",
         "given": "Terezie",
@@ -1058,6 +1105,7 @@
         "@I500224@"
       ],
       "ged_id": "@I500224@",
+      "match_type": "exact",
       "info": {
         "name": "Karel /Mendřec/",
         "given": "Karel",
@@ -1080,6 +1128,7 @@
         "@I500051@"
       ],
       "ged_id": "@I500051@",
+      "match_type": "exact",
       "info": {
         "name": "Adolf /Olšak/",
         "given": "Adolf",
@@ -1099,12 +1148,12 @@
       "row": 53,
       "col": 1,
       "ged_ids": [
-        "@I500052@",
         "@I500252@",
         "@I500433@",
         "@I500507@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1116,6 +1165,7 @@
         "@I500431@"
       ],
       "ged_id": "@I500431@",
+      "match_type": "married",
       "info": {
         "name": "Štěpánka /Slívová/",
         "given": "Štěpánka",
@@ -1141,6 +1191,7 @@
         "@I500444@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1153,6 +1204,7 @@
         "@I500444@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1164,6 +1216,7 @@
         "@I500446@"
       ],
       "ged_id": "@I500446@",
+      "match_type": "exact",
       "info": {
         "name": "Lukáš /Habernal/",
         "given": "Lukáš",
@@ -1186,6 +1239,7 @@
         "@I500448@"
       ],
       "ged_id": "@I500448@",
+      "match_type": "exact",
       "info": {
         "name": "Alena /Habernalová/",
         "given": "Alena",
@@ -1208,6 +1262,7 @@
         "@I500449@"
       ],
       "ged_id": "@I500449@",
+      "match_type": "married",
       "info": {
         "name": "Hana /Habernalová/",
         "given": "Hana",
@@ -1232,6 +1287,7 @@
         "@I500450@"
       ],
       "ged_id": "@I500450@",
+      "match_type": "exact",
       "info": {
         "name": "Karel /Foltýn/",
         "given": "Karel",
@@ -1254,6 +1310,7 @@
         "@I500452@"
       ],
       "ged_id": "@I500452@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Foltýn/",
         "given": "Martin",
@@ -1277,6 +1334,7 @@
         "@I500453@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1289,6 +1347,7 @@
         "@I500453@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1300,6 +1359,7 @@
         "@I500457@"
       ],
       "ged_id": "@I500457@",
+      "match_type": "exact",
       "info": {
         "name": "Martina /Habernalová/",
         "given": "Martina",
@@ -1323,6 +1383,7 @@
         "@I500582@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1334,6 +1395,7 @@
         "@I500584@"
       ],
       "ged_id": "@I500584@",
+      "match_type": "exact",
       "info": {
         "name": "Jakub /Habernal/",
         "given": "Jakub",
@@ -1357,6 +1419,7 @@
         "@I500467@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1369,6 +1432,7 @@
         "@I500467@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1380,6 +1444,7 @@
         "@I500469@"
       ],
       "ged_id": "@I500469@",
+      "match_type": "exact",
       "info": {
         "name": "Břetislav /Habernal/",
         "given": "Břetislav",
@@ -1402,6 +1467,7 @@
         "@I500470@"
       ],
       "ged_id": "@I500470@",
+      "match_type": "exact",
       "info": {
         "name": "Ivan /Habernal/",
         "given": "Ivan",
@@ -1424,6 +1490,7 @@
         "@I500472@"
       ],
       "ged_id": "@I500472@",
+      "match_type": "exact",
       "info": {
         "name": "Anna /Habernalová/",
         "given": "Anna",
@@ -1446,6 +1513,7 @@
         "@I500440@"
       ],
       "ged_id": "@I500440@",
+      "match_type": "exact",
       "info": {
         "name": "Vilém /Habernal/",
         "given": "Vilém",
@@ -1468,6 +1536,7 @@
         "@I500463@"
       ],
       "ged_id": "@I500463@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Habernalová/",
         "given": "Marie",
@@ -1492,6 +1561,7 @@
         "@I500464@"
       ],
       "ged_id": "@I500464@",
+      "match_type": "exact",
       "info": {
         "name": "Lucie /Dutschková/",
         "given": "Lucie",
@@ -1514,6 +1584,7 @@
         "@I500466@"
       ],
       "ged_id": "@I500466@",
+      "match_type": "exact",
       "info": {
         "name": "Kateřina /Dutschková/",
         "given": "Kateřina",
@@ -1536,6 +1607,7 @@
         "@I500624@"
       ],
       "ged_id": "@I500624@",
+      "match_type": "exact",
       "info": {
         "name": "Jakub /Piatkiewicz/",
         "given": "Jakub",
@@ -1558,6 +1630,7 @@
         "@I500458@"
       ],
       "ged_id": "@I500458@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Habernal/",
         "given": "Petr",
@@ -1580,6 +1653,7 @@
         "@I500460@"
       ],
       "ged_id": "@I500460@",
+      "match_type": "exact",
       "info": {
         "name": "Radim /Habernal/",
         "given": "Radim",
@@ -1602,6 +1676,7 @@
         "@I500462@"
       ],
       "ged_id": "@I500462@",
+      "match_type": "exact",
       "info": {
         "name": "Jana /Habernalová/",
         "given": "Jana",
@@ -1624,6 +1699,7 @@
         "@I500441@"
       ],
       "ged_id": "@I500441@",
+      "match_type": "married",
       "info": {
         "name": "Olga /Habernalová/",
         "given": "Olga",
@@ -1648,6 +1724,7 @@
         "@I500473@"
       ],
       "ged_id": "@I500473@",
+      "match_type": "exact",
       "info": {
         "name": "Pavla /Staňková/",
         "given": "Pavla",
@@ -1670,6 +1747,7 @@
         "@I500475@"
       ],
       "ged_id": "@I500475@",
+      "match_type": "married",
       "info": {
         "name": "Ludmila /Staňková/",
         "given": "Ludmila",
@@ -1694,6 +1772,7 @@
         "@I500479@"
       ],
       "ged_id": "@I500479@",
+      "match_type": "exact",
       "info": {
         "name": "Daniel /Hořelica/",
         "given": "Daniel",
@@ -1716,6 +1795,7 @@
         "@I500481@"
       ],
       "ged_id": "@I500481@",
+      "match_type": "exact",
       "info": {
         "name": "Adéla /Hořelicová/",
         "given": "Adéla",
@@ -1738,6 +1818,7 @@
         "@I500482@"
       ],
       "ged_id": "@I500482@",
+      "match_type": "exact",
       "info": {
         "name": "Nela /Ožanová/",
         "given": "Nela",
@@ -1760,6 +1841,7 @@
         "@I500476@"
       ],
       "ged_id": "@I500476@",
+      "match_type": "exact",
       "info": {
         "name": "Jiří /Staněk/",
         "given": "Jiří",
@@ -1782,6 +1864,7 @@
         "@I500483@"
       ],
       "ged_id": "@I500483@",
+      "match_type": "exact",
       "info": {
         "name": "Lukáš /Staněk/",
         "given": "Lukáš",
@@ -1804,6 +1887,7 @@
         "@I500485@"
       ],
       "ged_id": "@I500485@",
+      "match_type": "exact",
       "info": {
         "name": "Petra /Staňková/",
         "given": "Petra",
@@ -1826,6 +1910,7 @@
         "@I500477@"
       ],
       "ged_id": "@I500477@",
+      "match_type": "married",
       "info": {
         "name": "Ivana /Staňková/",
         "given": "Ivana",
@@ -1850,6 +1935,7 @@
         "@I500486@"
       ],
       "ged_id": "@I500486@",
+      "match_type": "exact",
       "info": {
         "name": "Denis /Heim/",
         "given": "Denis",
@@ -1872,6 +1958,7 @@
         "@I500478@"
       ],
       "ged_id": "@I500478@",
+      "match_type": "exact",
       "info": {
         "name": "Veronika /Staňková/",
         "given": "Veronika",
@@ -1894,6 +1981,7 @@
         "@I500442@"
       ],
       "ged_id": "@I500442@",
+      "match_type": "exact",
       "info": {
         "name": "Vladimír /Habernal/",
         "given": "Vladimír",
@@ -1916,6 +2004,7 @@
         "@I500488@"
       ],
       "ged_id": "@I500488@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Habernal/",
         "given": "Jan",
@@ -1938,6 +2027,7 @@
         "@I500490@"
       ],
       "ged_id": "@I500490@",
+      "match_type": "exact",
       "info": {
         "name": "Vít /Habernal/",
         "given": "Vít",
@@ -1960,6 +2050,7 @@
         "@I500491@"
       ],
       "ged_id": "@I500491@",
+      "match_type": "exact",
       "info": {
         "name": "Jitka /Habernalová/",
         "given": "Jitka",
@@ -1983,6 +2074,7 @@
         "@I500494@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -1994,6 +2086,7 @@
         "@I500492@"
       ],
       "ged_id": "@I500492@",
+      "match_type": "exact",
       "info": {
         "name": "Libor /Habernal/",
         "given": "Libor",
@@ -2017,6 +2110,7 @@
         "@I500494@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2028,6 +2122,7 @@
         "@I500509@"
       ],
       "ged_id": "@I500509@",
+      "match_type": "exact",
       "info": {
         "name": "Šimon /Habernal/",
         "given": "Šimon",
@@ -2050,6 +2145,7 @@
         "@I500511@"
       ],
       "ged_id": "@I500511@",
+      "match_type": "exact",
       "info": {
         "name": "Natálie /Habernalová/",
         "given": "Natálie",
@@ -2072,6 +2168,7 @@
         "@I500495@"
       ],
       "ged_id": "@I500495@",
+      "match_type": "exact",
       "info": {
         "name": "Ondřej /Habernal/",
         "given": "Ondřej",
@@ -2091,11 +2188,24 @@
       "row": 101,
       "col": 2,
       "ged_ids": [
-        "@I500433@",
         "@I500496@"
       ],
-      "ged_id": null,
-      "info": {}
+      "ged_id": "@I500496@",
+      "match_type": "exact",
+      "info": {
+        "name": "Marie /Marková/",
+        "given": "Marie",
+        "surname": "Marková",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": [
+          "Peterková"
+        ]
+      }
     },
     {
       "id": "o102_3",
@@ -2103,11 +2213,22 @@
       "row": 102,
       "col": 3,
       "ged_ids": [
-        "@I500496@",
         "@I500498@"
       ],
-      "ged_id": null,
-      "info": {}
+      "ged_id": "@I500498@",
+      "match_type": "exact",
+      "info": {
+        "name": "Marie /Peterková/",
+        "given": "Marie",
+        "surname": "Peterková",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": []
+      }
     },
     {
       "id": "o103_4",
@@ -2115,10 +2236,10 @@
       "row": 103,
       "col": 4,
       "ged_ids": [
-        "@I500496@",
         "@I500498@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2130,6 +2251,7 @@
         "@I500500@"
       ],
       "ged_id": "@I500500@",
+      "match_type": "exact",
       "info": {
         "name": "Jarmila /Peterková/",
         "given": "Jarmila",
@@ -2152,6 +2274,7 @@
         "@I500501@"
       ],
       "ged_id": "@I500501@",
+      "match_type": "exact",
       "info": {
         "name": "Anna /Peterková/",
         "given": "Anna",
@@ -2174,6 +2297,7 @@
         "@I500502@"
       ],
       "ged_id": "@I500502@",
+      "match_type": "exact",
       "info": {
         "name": "Zdeněk /Marek/",
         "given": "Zdeněk",
@@ -2196,6 +2320,7 @@
         "@I500434@"
       ],
       "ged_id": "@I500434@",
+      "match_type": "married",
       "info": {
         "name": "Ludmila /Slívová/",
         "given": "Ludmila",
@@ -2220,6 +2345,7 @@
         "@I500503@"
       ],
       "ged_id": "@I500503@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Sládek/",
         "given": "Jan",
@@ -2242,6 +2368,7 @@
         "@I500505@"
       ],
       "ged_id": "@I500505@",
+      "match_type": "exact",
       "info": {
         "name": "Daniel /Sládek/",
         "given": "Daniel",
@@ -2264,6 +2391,7 @@
         "@I500435@"
       ],
       "ged_id": "@I500435@",
+      "match_type": "exact",
       "info": {
         "name": "Ladislav /Slíva/",
         "given": "Ladislav",
@@ -2283,12 +2411,12 @@
       "row": 111,
       "col": 3,
       "ged_ids": [
-        "@I500052@",
         "@I500252@",
         "@I500433@",
         "@I500507@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2301,6 +2429,7 @@
         "@I500312@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2312,6 +2441,7 @@
         "@I500330@"
       ],
       "ged_id": "@I500330@",
+      "match_type": "married",
       "info": {
         "name": "Vlasta /Olšaková/",
         "given": "Vlasta",
@@ -2336,6 +2466,7 @@
         "@I500332@"
       ],
       "ged_id": "@I500332@",
+      "match_type": "exact",
       "info": {
         "name": "Evžen /Olšak/",
         "given": "Evžen",
@@ -2358,6 +2489,7 @@
         "@I500333@"
       ],
       "ged_id": "@I500333@",
+      "match_type": "married",
       "info": {
         "name": "Svatava /Olšaková/",
         "given": "Svatava",
@@ -2382,6 +2514,7 @@
         "@I500336@"
       ],
       "ged_id": "@I500336@",
+      "match_type": "exact",
       "info": {
         "name": "Veronika /Merglová/",
         "given": "Veronika",
@@ -2404,6 +2537,7 @@
         "@I500622@"
       ],
       "ged_id": "@I500622@",
+      "match_type": "exact",
       "info": {
         "name": "Libor /Struhala/",
         "given": "Libor",
@@ -2426,6 +2560,7 @@
         "@I500338@"
       ],
       "ged_id": "@I500338@",
+      "match_type": "married",
       "info": {
         "name": "Jana /Merglová/",
         "given": "Jana",
@@ -2450,6 +2585,7 @@
         "@I500339@"
       ],
       "ged_id": "@I500339@",
+      "match_type": "exact",
       "info": {
         "name": "Viktorie /Štreichlová/",
         "given": "Viktorie",
@@ -2472,6 +2608,7 @@
         "@I500621@"
       ],
       "ged_id": "@I500621@",
+      "match_type": "exact",
       "info": {
         "name": "Sarah /Štreichlová/",
         "given": "Sarah",
@@ -2494,6 +2631,7 @@
         "@I500335@"
       ],
       "ged_id": "@I500335@",
+      "match_type": "married",
       "info": {
         "name": "Naděžda /Olšak/",
         "given": "Naděžda",
@@ -2518,6 +2656,7 @@
         "@I500341@"
       ],
       "ged_id": "@I500341@",
+      "match_type": "exact",
       "info": {
         "name": "René /Kopeček/",
         "given": "René",
@@ -2540,6 +2679,7 @@
         "@I500343@"
       ],
       "ged_id": "@I500343@",
+      "match_type": "exact",
       "info": {
         "name": "Roman /Kopeček/",
         "given": "Roman",
@@ -2562,6 +2702,7 @@
         "@I500345@"
       ],
       "ged_id": "@I500345@",
+      "match_type": "exact",
       "info": {
         "name": "Marek /Kopeček/",
         "given": "Marek",
@@ -2584,6 +2725,7 @@
         "@I500346@"
       ],
       "ged_id": "@I500346@",
+      "match_type": "exact",
       "info": {
         "name": "Michal /Kopeček/",
         "given": "Michal",
@@ -2604,6 +2746,7 @@
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -2615,6 +2758,7 @@
         "@I500054@"
       ],
       "ged_id": "@I500054@",
+      "match_type": "exact",
       "info": {
         "name": "Žofie /Olšaková/",
         "given": "Žofie",
@@ -2637,6 +2781,7 @@
         "@I500055@"
       ],
       "ged_id": "@I500055@",
+      "match_type": "married",
       "info": {
         "name": "Františka /Olšaková/",
         "given": "Františka",
@@ -2662,6 +2807,7 @@
         "@I500356@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2674,6 +2820,7 @@
         "@I500356@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2685,6 +2832,7 @@
         "@I500359@"
       ],
       "ged_id": "@I500359@",
+      "match_type": "married",
       "info": {
         "name": "Gabriela /Grobařová/",
         "given": "Gabriela",
@@ -2709,6 +2857,7 @@
         "@I500362@"
       ],
       "ged_id": "@I500362@",
+      "match_type": "exact",
       "info": {
         "name": "Nikola /Chromečková/",
         "given": "Nikola",
@@ -2731,6 +2880,7 @@
         "@I500361@"
       ],
       "ged_id": "@I500361@",
+      "match_type": "exact",
       "info": {
         "name": "Radek /Grobař/",
         "given": "Radek",
@@ -2753,6 +2903,7 @@
         "@I500618@"
       ],
       "ged_id": "@I500618@",
+      "match_type": "exact",
       "info": {
         "name": "Bartoloměj /Grobař/",
         "given": "Bartoloměj",
@@ -2775,6 +2926,7 @@
         "@I500620@"
       ],
       "ged_id": "@I500620@",
+      "match_type": "exact",
       "info": {
         "name": "Maxmilián /Grobař/",
         "given": "Maxmilián",
@@ -2797,6 +2949,7 @@
         "@I500358@"
       ],
       "ged_id": "@I500358@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Grobařová/",
         "given": "Marie",
@@ -2821,6 +2974,7 @@
         "@I500364@"
       ],
       "ged_id": "@I500364@",
+      "match_type": "exact",
       "info": {
         "name": "Karel /Stockbauer/",
         "given": "Karel",
@@ -2843,6 +2997,7 @@
         "@I500367@"
       ],
       "ged_id": "@I500367@",
+      "match_type": "exact",
       "info": {
         "name": "Věra /Stockbauerová/",
         "given": "Věra",
@@ -2865,6 +3020,7 @@
         "@I500369@"
       ],
       "ged_id": "@I500369@",
+      "match_type": "exact",
       "info": {
         "name": "Kristina /Stockbauerová/",
         "given": "Kristina",
@@ -2888,6 +3044,7 @@
         "@I500370@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2900,6 +3057,7 @@
         "@I500370@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2911,6 +3069,7 @@
         "@I500350@"
       ],
       "ged_id": "@I500350@",
+      "match_type": "married",
       "info": {
         "name": "Jiřina /Grobařová/",
         "given": "Jiřina",
@@ -2935,6 +3094,7 @@
         "@I500372@"
       ],
       "ged_id": "@I500372@",
+      "match_type": "exact",
       "info": {
         "name": "Zdeněk /Randa/",
         "given": "Zdeněk",
@@ -2959,6 +3119,7 @@
         "@I500421@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -2970,6 +3131,7 @@
         "@I500352@"
       ],
       "ged_id": "@I500352@",
+      "match_type": "exact",
       "info": {
         "name": "Ladislav /Grobař/",
         "given": "Ladislav",
@@ -2992,6 +3154,7 @@
         "@I500374@"
       ],
       "ged_id": "@I500374@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Grobař/",
         "given": "Petr",
@@ -3014,6 +3177,7 @@
         "@I500376@"
       ],
       "ged_id": "@I500376@",
+      "match_type": "exact",
       "info": {
         "name": "Zuzana /Grobařová/",
         "given": "Zuzana",
@@ -3036,6 +3200,7 @@
         "@I500378@"
       ],
       "ged_id": "@I500378@",
+      "match_type": "exact",
       "info": {
         "name": "Alena /Grobařová/",
         "given": "Alena",
@@ -3059,6 +3224,7 @@
         "@I500383@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3070,6 +3236,7 @@
         "@I500379@"
       ],
       "ged_id": "@I500379@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Grobařová/",
         "given": "Marie",
@@ -3094,6 +3261,7 @@
         "@I500521@"
       ],
       "ged_id": "@I500521@",
+      "match_type": "exact",
       "info": {
         "name": "Věra /Plhalová/",
         "given": "Věra",
@@ -3116,6 +3284,7 @@
         "@I500384@"
       ],
       "ged_id": "@I500384@",
+      "match_type": "married",
       "info": {
         "name": "Pavlína /Plhalová/",
         "given": "Pavlína",
@@ -3140,6 +3309,7 @@
         "@I500386@"
       ],
       "ged_id": "@I500386@",
+      "match_type": "exact",
       "info": {
         "name": "Markéta /Kopečková/",
         "given": "Markéta",
@@ -3162,6 +3332,7 @@
         "@I500388@"
       ],
       "ged_id": "@I500388@",
+      "match_type": "exact",
       "info": {
         "name": "Vladimíra /Plhalová/",
         "given": "Vladimíra",
@@ -3186,6 +3357,7 @@
         "@I500512@"
       ],
       "ged_id": "@I500512@",
+      "match_type": "exact",
       "info": {
         "name": "Matěj /Kubica/",
         "given": "Matěj",
@@ -3208,6 +3380,7 @@
         "@I500514@"
       ],
       "ged_id": "@I500514@",
+      "match_type": "exact",
       "info": {
         "name": "Tomáš /Kubica/",
         "given": "Tomáš",
@@ -3230,6 +3403,7 @@
         "@I500389@"
       ],
       "ged_id": "@I500389@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Plhal/",
         "given": "Martin",
@@ -3252,6 +3426,7 @@
         "@I500515@"
       ],
       "ged_id": "@I500515@",
+      "match_type": "exact",
       "info": {
         "name": "Aneta /Plhalová/",
         "given": "Aneta",
@@ -3274,6 +3449,7 @@
         "@I500517@"
       ],
       "ged_id": "@I500517@",
+      "match_type": "exact",
       "info": {
         "name": "Honza /Plhal/",
         "given": "Honza",
@@ -3296,6 +3472,7 @@
         "@I500381@"
       ],
       "ged_id": "@I500381@",
+      "match_type": "married",
       "info": {
         "name": "Jiřina /Grobařová/",
         "given": "Jiřina",
@@ -3320,6 +3497,7 @@
         "@I500390@"
       ],
       "ged_id": "@I500390@",
+      "match_type": "exact",
       "info": {
         "name": "Iveta /Felclová/",
         "given": "Iveta",
@@ -3342,6 +3520,7 @@
         "@I500392@"
       ],
       "ged_id": "@I500392@",
+      "match_type": "exact",
       "info": {
         "name": "Gabriela /Felclová/",
         "given": "Gabriela",
@@ -3366,6 +3545,7 @@
         "@I500518@"
       ],
       "ged_id": "@I500518@",
+      "match_type": "exact",
       "info": {
         "name": "David /Žernička/",
         "given": "David",
@@ -3388,6 +3568,7 @@
         "@I500520@"
       ],
       "ged_id": "@I500520@",
+      "match_type": "exact",
       "info": {
         "name": "Markéta /Žerničková/",
         "given": "Markéta",
@@ -3410,6 +3591,7 @@
         "@I500382@"
       ],
       "ged_id": "@I500382@",
+      "match_type": "married",
       "info": {
         "name": "Jaroslava /Grobařová/",
         "given": "Jaroslava",
@@ -3434,6 +3616,7 @@
         "@I500393@"
       ],
       "ged_id": "@I500393@",
+      "match_type": "exact",
       "info": {
         "name": "Radek /Chwistek/",
         "given": "Radek",
@@ -3456,6 +3639,7 @@
         "@I500395@"
       ],
       "ged_id": "@I500395@",
+      "match_type": "exact",
       "info": {
         "name": "Lenka /Chwistková/",
         "given": "Lenka",
@@ -3479,6 +3663,7 @@
         "@I500383@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3490,6 +3675,7 @@
         "@I500354@"
       ],
       "ged_id": "@I500354@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Grobařová/",
         "given": "Marie",
@@ -3515,6 +3701,7 @@
         "@I500403@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3526,6 +3713,7 @@
         "@I500401@"
       ],
       "ged_id": "@I500401@",
+      "match_type": "exact",
       "info": {
         "name": "Tomáš /Kvasnička/",
         "given": "Tomáš",
@@ -3549,6 +3737,7 @@
         "@I500403@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3560,6 +3749,7 @@
         "@I500404@"
       ],
       "ged_id": "@I500404@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Kvasnička/",
         "given": "Petr",
@@ -3582,6 +3772,7 @@
         "@I500398@"
       ],
       "ged_id": "@I500398@",
+      "match_type": "married",
       "info": {
         "name": "Ludmila /Kvasničková/",
         "given": "Ludmila",
@@ -3606,6 +3797,7 @@
         "@I500405@"
       ],
       "ged_id": "@I500405@",
+      "match_type": "exact",
       "info": {
         "name": "Vladimír /Bičanovský/",
         "given": "Vladimír",
@@ -3628,6 +3820,7 @@
         "@I500407@"
       ],
       "ged_id": "@I500407@",
+      "match_type": "exact",
       "info": {
         "name": "Markéta /Bičanovská/",
         "given": "Markéta",
@@ -3650,6 +3843,7 @@
         "@I500399@"
       ],
       "ged_id": "@I500399@",
+      "match_type": "married",
       "info": {
         "name": "Helena /Kvasničková/",
         "given": "Helena",
@@ -3674,6 +3868,7 @@
         "@I500408@"
       ],
       "ged_id": "@I500408@",
+      "match_type": "exact",
       "info": {
         "name": "Lukáš /Fiala/",
         "given": "Lukáš",
@@ -3696,6 +3891,7 @@
         "@I500410@"
       ],
       "ged_id": "@I500410@",
+      "match_type": "exact",
       "info": {
         "name": "Roman /Fiala/",
         "given": "Roman",
@@ -3719,6 +3915,7 @@
         "@I500411@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3731,6 +3928,7 @@
         "@I500411@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3742,6 +3940,7 @@
         "@I500413@"
       ],
       "ged_id": "@I500413@",
+      "match_type": "exact",
       "info": {
         "name": "Jana /Kvasničková/",
         "given": "Jana",
@@ -3766,6 +3965,7 @@
         "@I500418@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3779,6 +3979,7 @@
         "@I500418@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3792,6 +3993,7 @@
         "@I500418@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3803,6 +4005,7 @@
         "@I500420@"
       ],
       "ged_id": "@I500420@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Grobař/",
         "given": "Martin",
@@ -3827,6 +4030,7 @@
         "@I500421@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3840,6 +4044,7 @@
         "@I500421@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3852,6 +4057,7 @@
         "@I500424@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3864,6 +4070,7 @@
         "@I500424@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3875,6 +4082,7 @@
         "@I500426@"
       ],
       "ged_id": "@I500426@",
+      "match_type": "exact",
       "info": {
         "name": "Jiří /Grobař/",
         "given": "Jiří",
@@ -3894,11 +4102,22 @@
       "row": 192,
       "col": 3,
       "ged_ids": [
-        "@I500417@",
         "@I500430@"
       ],
-      "ged_id": null,
-      "info": {}
+      "ged_id": "@I500430@",
+      "match_type": "exact",
+      "info": {
+        "name": "Helena /Bukovčáková/",
+        "given": "Helena",
+        "surname": "Bukovčáková",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": []
+      }
     },
     {
       "id": "o193_4",
@@ -3909,6 +4128,7 @@
         "@I500427@"
       ],
       "ged_id": "@I500427@",
+      "match_type": "married",
       "info": {
         "name": "Jana /Bukovčáková/",
         "given": "Jana",
@@ -3933,6 +4153,7 @@
         "@I500429@"
       ],
       "ged_id": "@I500429@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Bukovčák/",
         "given": "Martin",
@@ -3952,10 +4173,10 @@
       "row": 195,
       "col": 4,
       "ged_ids": [
-        "@I500417@",
         "@I500430@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -3967,6 +4188,7 @@
         "@I500046@"
       ],
       "ged_id": "@I500046@",
+      "match_type": "married",
       "info": {
         "name": "Aloisie /Olšáková/",
         "given": "Aloisie",
@@ -3991,6 +4213,7 @@
         "@I500064@"
       ],
       "ged_id": "@I500064@",
+      "match_type": "married",
       "info": {
         "name": "Jarmila /Rohel/",
         "given": "Jarmila",
@@ -4015,6 +4238,7 @@
         "@I500066@"
       ],
       "ged_id": "@I500066@",
+      "match_type": "married",
       "info": {
         "name": "Bohumila /Šuchová/",
         "given": "Bohumila",
@@ -4039,6 +4263,7 @@
         "@I500174@"
       ],
       "ged_id": "@I500174@",
+      "match_type": "married",
       "info": {
         "name": "Miroslava /Foldynová/",
         "given": "Miroslava",
@@ -4063,6 +4288,7 @@
         "@I500176@"
       ],
       "ged_id": "@I500176@",
+      "match_type": "exact",
       "info": {
         "name": "Zuzana /Čechová/",
         "given": "Zuzana",
@@ -4087,6 +4313,7 @@
         "@I500178@"
       ],
       "ged_id": "@I500178@",
+      "match_type": "exact",
       "info": {
         "name": "Tereza /Hadravová/",
         "given": "Tereza",
@@ -4109,6 +4336,7 @@
         "@I500179@"
       ],
       "ged_id": "@I500179@",
+      "match_type": "married",
       "info": {
         "name": "Eliška /Čechová/",
         "given": "Eliška",
@@ -4134,6 +4362,7 @@
         "@I500181@"
       ],
       "ged_id": "@I500181@",
+      "match_type": "exact",
       "info": {
         "name": "Daniel /Čech/",
         "given": "Daniel",
@@ -4156,6 +4385,7 @@
         "@I500586@"
       ],
       "ged_id": "@I500586@",
+      "match_type": "exact",
       "info": {
         "name": "Kristián /Vajda/",
         "given": "Kristián",
@@ -4178,6 +4408,7 @@
         "@I500183@"
       ],
       "ged_id": "@I500183@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Čech/",
         "given": "Martin",
@@ -4200,6 +4431,7 @@
         "@I500184@"
       ],
       "ged_id": "@I500184@",
+      "match_type": "exact",
       "info": {
         "name": "Kristina /Čechová/",
         "given": "Kristina",
@@ -4222,6 +4454,7 @@
         "@I500185@"
       ],
       "ged_id": "@I500185@",
+      "match_type": "married",
       "info": {
         "name": "Jana /Foldynová/",
         "given": "Jana",
@@ -4247,6 +4480,7 @@
         "@I500187@"
       ],
       "ged_id": "@I500187@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Foldyna/",
         "given": "Jan",
@@ -4269,6 +4503,7 @@
         "@I500189@"
       ],
       "ged_id": "@I500189@",
+      "match_type": "exact",
       "info": {
         "name": "Hana /Kubínková/",
         "given": "Hana",
@@ -4291,6 +4526,7 @@
         "@I500068@"
       ],
       "ged_id": "@I500068@",
+      "match_type": "married",
       "info": {
         "name": "Jaroslava /Šuchová/",
         "given": "Jaroslava",
@@ -4313,6 +4549,7 @@
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -4324,6 +4561,7 @@
         "@I500192@"
       ],
       "ged_id": "@I500192@",
+      "match_type": "exact",
       "info": {
         "name": "Anna /Šnajdrová/",
         "given": "Anna",
@@ -4346,6 +4584,7 @@
         "@I500193@"
       ],
       "ged_id": "@I500193@",
+      "match_type": "exact",
       "info": {
         "name": "Veronika /Šnajdrová/",
         "given": "Veronika",
@@ -4368,6 +4607,7 @@
         "@I500194@"
       ],
       "ged_id": "@I500194@",
+      "match_type": "exact",
       "info": {
         "name": "Eva /Šnajdrová/",
         "given": "Eva",
@@ -4388,6 +4628,7 @@
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -4399,6 +4640,7 @@
         "@I500172@"
       ],
       "ged_id": "@I500172@",
+      "match_type": "exact",
       "info": {
         "name": "Klára /Šnajdrová/",
         "given": "Klára",
@@ -4421,6 +4663,7 @@
         "@I500069@"
       ],
       "ged_id": "@I500069@",
+      "match_type": "exact",
       "info": {
         "name": "Vladimír /Šuch/",
         "given": "Vladimír",
@@ -4441,6 +4684,7 @@
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -4450,6 +4694,7 @@
       "col": 5,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -4461,6 +4706,7 @@
         "@I500072@"
       ],
       "ged_id": "@I500072@",
+      "match_type": "exact",
       "info": {
         "name": "Gabriela /Šuchová/",
         "given": "Gabriela",
@@ -4480,11 +4726,22 @@
       "row": 221,
       "col": 2,
       "ged_ids": [
-        "@I500065@",
         "@I500601@"
       ],
-      "ged_id": null,
-      "info": {}
+      "ged_id": "@I500601@",
+      "match_type": "exact",
+      "info": {
+        "name": "Milada /Kovalová/",
+        "given": "Milada",
+        "surname": "Kovalová",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": []
+      }
     },
     {
       "id": "o222_3",
@@ -4495,6 +4752,7 @@
         "@I500195@"
       ],
       "ged_id": "@I500195@",
+      "match_type": "exact",
       "info": {
         "name": "Jaromír /Koval/",
         "given": "Jaromír",
@@ -4518,6 +4776,7 @@
         "@I500211@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -4529,6 +4788,7 @@
         "@I500199@"
       ],
       "ged_id": "@I500199@",
+      "match_type": "exact",
       "info": {
         "name": "Ondřej /Koval/",
         "given": "Ondřej",
@@ -4551,6 +4811,7 @@
         "@I500200@"
       ],
       "ged_id": "@I500200@",
+      "match_type": "married",
       "info": {
         "name": "Jana /Kovalová/",
         "given": "Jana",
@@ -4576,6 +4837,7 @@
         "@I500202@"
       ],
       "ged_id": "@I500202@",
+      "match_type": "exact",
       "info": {
         "name": "Viktorie /Vaňková/",
         "given": "Viktorie",
@@ -4598,6 +4860,7 @@
         "@I500203@"
       ],
       "ged_id": "@I500203@",
+      "match_type": "exact",
       "info": {
         "name": "Adriana /Vaňková/",
         "given": "Adriana",
@@ -4621,6 +4884,7 @@
         "@I500209@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -4632,6 +4896,7 @@
         "@I500207@"
       ],
       "ged_id": "@I500207@",
+      "match_type": "exact",
       "info": {
         "name": "Dušan /Koval/",
         "given": "Dušan",
@@ -4655,6 +4920,7 @@
         "@I500209@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -4666,6 +4932,7 @@
         "@I500210@"
       ],
       "ged_id": "@I500210@",
+      "match_type": "exact",
       "info": {
         "name": "Karel /Koval/",
         "given": "Karel",
@@ -4689,6 +4956,7 @@
         "@I500211@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
@@ -4700,6 +4968,7 @@
         "@I500212@"
       ],
       "ged_id": "@I500212@",
+      "match_type": "exact",
       "info": {
         "name": "Alois /Koval/",
         "given": "Alois",
@@ -4722,6 +4991,7 @@
         "@I500213@"
       ],
       "ged_id": "@I500213@",
+      "match_type": "exact",
       "info": {
         "name": "Helena /Kovalová/",
         "given": "Helena",
@@ -4746,6 +5016,7 @@
         "@I500215@"
       ],
       "ged_id": "@I500215@",
+      "match_type": "exact",
       "info": {
         "name": "Ondřej /Švancar/",
         "given": "Ondřej",
@@ -4768,6 +5039,7 @@
         "@I500217@"
       ],
       "ged_id": "@I500217@",
+      "match_type": "exact",
       "info": {
         "name": "Zdeněk /Koval/",
         "given": "Zdeněk",
@@ -4790,6 +5062,7 @@
         "@I500220@"
       ],
       "ged_id": "@I500220@",
+      "match_type": "exact",
       "info": {
         "name": "Dagmar /Kovalová/",
         "given": "Dagmar",
@@ -4812,6 +5085,7 @@
         "@I500219@"
       ],
       "ged_id": "@I500219@",
+      "match_type": "exact",
       "info": {
         "name": "Václav /Koval/",
         "given": "Václav",
@@ -4833,19 +5107,9 @@
       "ged_ids": [
         "@I500199@"
       ],
-      "ged_id": "@I500199@",
-      "info": {
-        "name": "Ondřej /Koval/",
-        "given": "Ondřej",
-        "surname": "Koval",
-        "sex": "M",
-        "birth": "7 OCT 1973",
-        "birth_place": "",
-        "death": "",
-        "death_place": "",
-        "occupation": "",
-        "married_names": []
-      }
+      "ged_id": null,
+      "match_type": "ambiguous",
+      "info": {}
     },
     {
       "id": "o240_3",
@@ -4856,6 +5120,7 @@
         "@I500216@"
       ],
       "ged_id": "@I500216@",
+      "match_type": "exact",
       "info": {
         "name": "Luděk /Koval/",
         "given": "Luděk",
@@ -4875,11 +5140,24 @@
       "row": 241,
       "col": 2,
       "ged_ids": [
-        "@I500033@",
         "@I500075@"
       ],
-      "ged_id": null,
-      "info": {}
+      "ged_id": "@I500075@",
+      "match_type": "exact",
+      "info": {
+        "name": "Marie /Drabinová/",
+        "given": "Marie",
+        "surname": "Drabinová",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": [
+          "Slabá"
+        ]
+      }
     },
     {
       "id": "o242_3",
@@ -4888,6 +5166,7 @@
       "col": 3,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
@@ -4899,6 +5178,7 @@
         "@I500040@"
       ],
       "ged_id": "@I500040@",
+      "match_type": "exact",
       "info": {
         "name": "Michal /Drabina/",
         "given": "Michal",
@@ -4921,6 +5201,7 @@
         "@I500042@"
       ],
       "ged_id": "@I500042@",
+      "match_type": "exact",
       "info": {
         "name": "Pavel /Drabina/",
         "given": "Pavel",
@@ -4943,6 +5224,7 @@
         "@I500045@"
       ],
       "ged_id": "@I500045@",
+      "match_type": "exact",
       "info": {
         "name": "Simona /Drabinová/",
         "given": "Simona",
@@ -4965,6 +5247,7 @@
         "@I500032@"
       ],
       "ged_id": "@I500032@",
+      "match_type": "married",
       "info": {
         "name": "Libuše /Drabinová/",
         "given": "Libuše",
@@ -4990,6 +5273,7 @@
         "@I500031@"
       ],
       "ged_id": "@I500031@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Veselý/",
         "given": "Martin",
@@ -5012,6 +5296,7 @@
         "@I500036@"
       ],
       "ged_id": "@I500036@",
+      "match_type": "exact",
       "info": {
         "name": "Rozálie /Veselá/",
         "given": "Rozálie",
@@ -5034,6 +5319,7 @@
         "@I500037@"
       ],
       "ged_id": "@I500037@",
+      "match_type": "exact",
       "info": {
         "name": "Štěpán /Veselý/",
         "given": "Štěpán",
@@ -5056,6 +5342,7 @@
         "@I500221@"
       ],
       "ged_id": "@I500221@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Veselý/",
         "given": "Petr",
@@ -5076,17 +5363,29 @@
       "col": 5,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
-      "id": "o252_1",
-      "name": "Josef Olšák",
+      "id": "o252_5",
+      "name": "Nikola Veselá",
       "row": 252,
+      "col": 5,
+      "ged_ids": [],
+      "ged_id": null,
+      "match_type": "unmatched",
+      "info": {}
+    },
+    {
+      "id": "o253_1",
+      "name": "Josef Olšák",
+      "row": 253,
       "col": 1,
       "ged_ids": [
         "@I500056@"
       ],
       "ged_id": "@I500056@",
+      "match_type": "exact",
       "info": {
         "name": "Josef /Olšak/",
         "given": "Josef",
@@ -5101,26 +5400,28 @@
       }
     },
     {
-      "id": "o253_2",
+      "id": "o254_2",
       "name": "Jan Olšák",
-      "row": 253,
+      "row": 254,
       "col": 2,
       "ged_ids": [
         "@I500053@",
         "@I500312@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
-      "id": "o254_3",
+      "id": "o255_3",
       "name": "Jaroslav Olšák",
-      "row": 254,
+      "row": 255,
       "col": 3,
       "ged_ids": [
         "@I500314@"
       ],
       "ged_id": "@I500314@",
+      "match_type": "exact",
       "info": {
         "name": "Jaroslav /Olšak/",
         "given": "Jaroslav",
@@ -5135,14 +5436,15 @@
       }
     },
     {
-      "id": "o255_3",
+      "id": "o256_3",
       "name": "Drahomíra Kratěnová",
-      "row": 255,
+      "row": 256,
       "col": 3,
       "ged_ids": [
         "@I500316@"
       ],
       "ged_id": "@I500316@",
+      "match_type": "married",
       "info": {
         "name": "Drahomíra /Olšaková/",
         "given": "Drahomíra",
@@ -5159,14 +5461,15 @@
       }
     },
     {
-      "id": "o256_4",
+      "id": "o257_4",
       "name": "Tatána Kratěnová",
-      "row": 256,
+      "row": 257,
       "col": 4,
       "ged_ids": [
         "@I500317@"
       ],
       "ged_id": "@I500317@",
+      "match_type": "exact",
       "info": {
         "name": "Taťána /Kratěnová/",
         "given": "Taťána",
@@ -5181,14 +5484,15 @@
       }
     },
     {
-      "id": "o257_5",
+      "id": "o258_5",
       "name": "Matyáš Pekárek",
-      "row": 257,
+      "row": 258,
       "col": 5,
       "ged_ids": [
         "@I500616@"
       ],
       "ged_id": "@I500616@",
+      "match_type": "exact",
       "info": {
         "name": "Matyáš /Pekárek/",
         "given": "Matyáš",
@@ -5203,14 +5507,15 @@
       }
     },
     {
-      "id": "o258_4",
+      "id": "o259_4",
       "name": "David Kratěna",
-      "row": 258,
+      "row": 259,
       "col": 4,
       "ged_ids": [
         "@I500319@"
       ],
       "ged_id": "@I500319@",
+      "match_type": "exact",
       "info": {
         "name": "David /Kratěna/",
         "given": "David",
@@ -5225,14 +5530,15 @@
       }
     },
     {
-      "id": "o259_2",
+      "id": "o260_2",
       "name": "Marie Sládečková",
-      "row": 259,
+      "row": 260,
       "col": 2,
       "ged_ids": [
         "@I500320@"
       ],
       "ged_id": "@I500320@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Olšaková/",
         "given": "Marie",
@@ -5249,14 +5555,15 @@
       }
     },
     {
-      "id": "o260_3",
+      "id": "o261_3",
       "name": "Václav Sládeček",
-      "row": 260,
+      "row": 261,
       "col": 3,
       "ged_ids": [
         "@I500321@"
       ],
       "ged_id": "@I500321@",
+      "match_type": "exact",
       "info": {
         "name": "Václav /Sládeček/",
         "given": "Václav",
@@ -5271,14 +5578,15 @@
       }
     },
     {
-      "id": "o261_3",
+      "id": "o262_3",
       "name": "Ludmila Adámková",
-      "row": 261,
+      "row": 262,
       "col": 3,
       "ged_ids": [
         "@I500323@"
       ],
       "ged_id": "@I500323@",
+      "match_type": "married",
       "info": {
         "name": "Ludmila /Sládečková/",
         "given": "Ludmila",
@@ -5295,14 +5603,15 @@
       }
     },
     {
-      "id": "o262_4",
+      "id": "o263_4",
       "name": "Jarmila Adámková",
-      "row": 262,
+      "row": 263,
       "col": 4,
       "ged_ids": [
         "@I500325@"
       ],
       "ged_id": "@I500325@",
+      "match_type": "exact",
       "info": {
         "name": "Jarmila /Adámková/",
         "given": "Jarmila",
@@ -5317,14 +5626,15 @@
       }
     },
     {
-      "id": "o263_3",
+      "id": "o264_3",
       "name": "Helena Fešarová",
-      "row": 263,
+      "row": 264,
       "col": 3,
       "ged_ids": [
         "@I500324@"
       ],
       "ged_id": "@I500324@",
+      "match_type": "married",
       "info": {
         "name": "Helena /Sládečková/",
         "given": "Helena",
@@ -5341,14 +5651,15 @@
       }
     },
     {
-      "id": "o264_4",
+      "id": "o265_4",
       "name": "Vojtěch Fešar",
-      "row": 264,
+      "row": 265,
       "col": 4,
       "ged_ids": [
         "@I500327@"
       ],
       "ged_id": "@I500327@",
+      "match_type": "exact",
       "info": {
         "name": "Vojtěch /Fešar/",
         "given": "Vojtěch",
@@ -5363,14 +5674,15 @@
       }
     },
     {
-      "id": "o265_4",
+      "id": "o266_4",
       "name": "Ondřej Fešar",
-      "row": 265,
+      "row": 266,
       "col": 4,
       "ged_ids": [
         "@I500329@"
       ],
       "ged_id": "@I500329@",
+      "match_type": "exact",
       "info": {
         "name": "Ondřej /Fešar/",
         "given": "Ondřej",
@@ -5385,23 +5697,25 @@
       }
     },
     {
-      "id": "o266_2",
+      "id": "o267_2",
       "name": "Ladislav Olšák",
-      "row": 266,
+      "row": 267,
       "col": 2,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
-      "id": "o267_1",
+      "id": "o268_1",
       "name": "Božena Černecká",
-      "row": 267,
+      "row": 268,
       "col": 1,
       "ged_ids": [
         "@I500057@"
       ],
       "ged_id": "@I500057@",
+      "match_type": "married",
       "info": {
         "name": "Božena /Salamonová/",
         "given": "Božena",
@@ -5418,14 +5732,15 @@
       }
     },
     {
-      "id": "o268_2",
+      "id": "o269_2",
       "name": "Marie Biolková",
-      "row": 268,
+      "row": 269,
       "col": 2,
       "ged_ids": [
         "@I500274@"
       ],
       "ged_id": "@I500274@",
+      "match_type": "married",
       "info": {
         "name": "Marie //",
         "given": "Marie",
@@ -5442,14 +5757,15 @@
       }
     },
     {
-      "id": "o269_3",
+      "id": "o270_3",
       "name": "Zdenka Křetinská",
-      "row": 269,
+      "row": 270,
       "col": 3,
       "ged_ids": [
         "@I500276@"
       ],
       "ged_id": "@I500276@",
+      "match_type": "married",
       "info": {
         "name": "Zdenka /Biolková/",
         "given": "Zdenka",
@@ -5466,14 +5782,15 @@
       }
     },
     {
-      "id": "o270_4",
+      "id": "o271_4",
       "name": "Markéta Lukešová",
-      "row": 270,
+      "row": 271,
       "col": 4,
       "ged_ids": [
         "@I500278@"
       ],
       "ged_id": "@I500278@",
+      "match_type": "married",
       "info": {
         "name": "Markéta /Křetinská/",
         "given": "Markéta",
@@ -5490,14 +5807,15 @@
       }
     },
     {
-      "id": "o271_5",
+      "id": "o272_5",
       "name": "Tereza Lukešová",
-      "row": 271,
+      "row": 272,
       "col": 5,
       "ged_ids": [
         "@I500280@"
       ],
       "ged_id": "@I500280@",
+      "match_type": "exact",
       "info": {
         "name": "Tereza /Lukešová/",
         "given": "Tereza",
@@ -5512,14 +5830,15 @@
       }
     },
     {
-      "id": "o272_5",
+      "id": "o273_5",
       "name": "Václav Lukeš",
-      "row": 272,
+      "row": 273,
       "col": 5,
       "ged_ids": [
         "@I500282@"
       ],
       "ged_id": "@I500282@",
+      "match_type": "exact",
       "info": {
         "name": "Václav /Lukeš/",
         "given": "Václav",
@@ -5534,14 +5853,15 @@
       }
     },
     {
-      "id": "o273_4",
+      "id": "o274_4",
       "name": "Hana Harantová",
-      "row": 273,
+      "row": 274,
       "col": 4,
       "ged_ids": [
         "@I500283@"
       ],
       "ged_id": "@I500283@",
+      "match_type": "married",
       "info": {
         "name": "Hana /Křetínská/",
         "given": "Hana",
@@ -5558,14 +5878,15 @@
       }
     },
     {
-      "id": "o274_5",
+      "id": "o275_5",
       "name": "Václav Harant",
-      "row": 274,
+      "row": 275,
       "col": 5,
       "ged_ids": [
         "@I500604@"
       ],
       "ged_id": "@I500604@",
+      "match_type": "exact",
       "info": {
         "name": "Václav /Harant/",
         "given": "Václav",
@@ -5580,14 +5901,15 @@
       }
     },
     {
-      "id": "o275_5",
+      "id": "o276_5",
       "name": "Zuzana Harantová",
-      "row": 275,
+      "row": 276,
       "col": 5,
       "ged_ids": [
         "@I500606@"
       ],
       "ged_id": "@I500606@",
+      "match_type": "exact",
       "info": {
         "name": "Zuzana /Harantová/",
         "given": "Zuzana",
@@ -5602,14 +5924,15 @@
       }
     },
     {
-      "id": "o276_2",
+      "id": "o277_2",
       "name": "Jaroslav Maceček",
-      "row": 276,
+      "row": 277,
       "col": 2,
       "ged_ids": [
         "@I500284@"
       ],
       "ged_id": "@I500284@",
+      "match_type": "exact",
       "info": {
         "name": "Jaroslav /Maceček/",
         "given": "Jaroslav",
@@ -5624,14 +5947,15 @@
       }
     },
     {
-      "id": "o277_3",
+      "id": "o278_3",
       "name": "Silvie Baštinská",
-      "row": 277,
+      "row": 278,
       "col": 3,
       "ged_ids": [
         "@I500285@"
       ],
       "ged_id": "@I500285@",
+      "match_type": "married",
       "info": {
         "name": "Silvie /Macečková/",
         "given": "Silvie",
@@ -5648,14 +5972,15 @@
       }
     },
     {
-      "id": "o278_4",
+      "id": "o279_4",
       "name": "Lukáš Baštinský",
-      "row": 278,
+      "row": 279,
       "col": 4,
       "ged_ids": [
         "@I500287@"
       ],
       "ged_id": "@I500287@",
+      "match_type": "exact",
       "info": {
         "name": "Lukáš /Baštinský/",
         "given": "Lukáš",
@@ -5670,14 +5995,15 @@
       }
     },
     {
-      "id": "o279_5",
+      "id": "o280_5",
       "name": "Daniel Baštinský",
-      "row": 279,
+      "row": 280,
       "col": 5,
       "ged_ids": [
         "@I500607@"
       ],
       "ged_id": "@I500607@",
+      "match_type": "exact",
       "info": {
         "name": "Daniel /Baštinský/",
         "given": "Daniel",
@@ -5692,14 +6018,15 @@
       }
     },
     {
-      "id": "o280_5",
+      "id": "o281_5",
       "name": "Gabriela Baštinská",
-      "row": 280,
+      "row": 281,
       "col": 5,
       "ged_ids": [
         "@I500609@"
       ],
       "ged_id": "@I500609@",
+      "match_type": "exact",
       "info": {
         "name": "Gabriela /Baštinská/",
         "given": "Gabriela",
@@ -5714,14 +6041,15 @@
       }
     },
     {
-      "id": "o281_4",
+      "id": "o282_4",
       "name": "Radka Baštinská",
-      "row": 281,
+      "row": 282,
       "col": 4,
       "ged_ids": [
         "@I500289@"
       ],
       "ged_id": "@I500289@",
+      "match_type": "exact",
       "info": {
         "name": "Radka /Baštinská/",
         "given": "Radka",
@@ -5736,14 +6064,15 @@
       }
     },
     {
-      "id": "o282_5",
+      "id": "o283_5",
       "name": "Ondřej Baštinský",
-      "row": 282,
+      "row": 283,
       "col": 5,
       "ged_ids": [
         "@I500610@"
       ],
       "ged_id": "@I500610@",
+      "match_type": "exact",
       "info": {
         "name": "Ondřej /Baštinský/",
         "given": "Ondřej",
@@ -5758,14 +6087,15 @@
       }
     },
     {
-      "id": "o283_3",
+      "id": "o284_3",
       "name": "Jana Miturová",
-      "row": 283,
+      "row": 284,
       "col": 3,
       "ged_ids": [
         "@I500290@"
       ],
       "ged_id": "@I500290@",
+      "match_type": "married",
       "info": {
         "name": "Jana /Macečková/",
         "given": "Jana",
@@ -5782,14 +6112,15 @@
       }
     },
     {
-      "id": "o284_4",
+      "id": "o285_4",
       "name": "Vojtěch Mitura",
-      "row": 284,
+      "row": 285,
       "col": 4,
       "ged_ids": [
         "@I500291@"
       ],
       "ged_id": "@I500291@",
+      "match_type": "exact",
       "info": {
         "name": "Vojtěch /Mitura/",
         "given": "Vojtěch",
@@ -5804,14 +6135,15 @@
       }
     },
     {
-      "id": "o285_2",
+      "id": "o286_2",
       "name": "Ludmila Raszková",
-      "row": 285,
+      "row": 286,
       "col": 2,
       "ged_ids": [
         "@I500293@"
       ],
       "ged_id": "@I500293@",
+      "match_type": "married",
       "info": {
         "name": "Ludmila //",
         "given": "Ludmila",
@@ -5828,14 +6160,15 @@
       }
     },
     {
-      "id": "o286_3",
+      "id": "o287_3",
       "name": "Stanislav Raszka",
-      "row": 286,
+      "row": 287,
       "col": 3,
       "ged_ids": [
         "@I500294@"
       ],
       "ged_id": "@I500294@",
+      "match_type": "exact",
       "info": {
         "name": "Stanislav /Raszka/",
         "given": "Stanislav",
@@ -5850,14 +6183,15 @@
       }
     },
     {
-      "id": "o287_3",
+      "id": "o288_3",
       "name": "Ivan Raszka",
-      "row": 287,
+      "row": 288,
       "col": 3,
       "ged_ids": [
         "@I500298@"
       ],
       "ged_id": "@I500298@",
+      "match_type": "exact",
       "info": {
         "name": "Ivan /Raszka/",
         "given": "Ivan",
@@ -5872,14 +6206,15 @@
       }
     },
     {
-      "id": "o288_4",
+      "id": "o289_4",
       "name": "Jan Raszka",
-      "row": 288,
+      "row": 289,
       "col": 4,
       "ged_ids": [
         "@I500299@"
       ],
       "ged_id": "@I500299@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Raszka/",
         "given": "Jan",
@@ -5894,23 +6229,25 @@
       }
     },
     {
-      "id": "o289_4",
+      "id": "o290_4",
       "name": "Vojtěch Razska",
-      "row": 289,
+      "row": 290,
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
-      "id": "o290_4",
+      "id": "o291_4",
       "name": "Martin Raszka",
-      "row": 290,
+      "row": 291,
       "col": 4,
       "ged_ids": [
         "@I500612@"
       ],
       "ged_id": "@I500612@",
+      "match_type": "exact",
       "info": {
         "name": "Martin /Raszka/",
         "given": "Martin",
@@ -5925,14 +6262,15 @@
       }
     },
     {
-      "id": "o291_3",
+      "id": "o292_3",
       "name": "Jana Raszková",
-      "row": 291,
+      "row": 292,
       "col": 3,
       "ged_ids": [
         "@I500302@"
       ],
       "ged_id": "@I500302@",
+      "match_type": "exact",
       "info": {
         "name": "Jana /Raszková/",
         "given": "Jana",
@@ -5947,14 +6285,15 @@
       }
     },
     {
-      "id": "o292_2",
+      "id": "o293_2",
       "name": "Antonín Maceček",
-      "row": 292,
+      "row": 293,
       "col": 2,
       "ged_ids": [
         "@I500303@"
       ],
       "ged_id": "@I500303@",
+      "match_type": "exact",
       "info": {
         "name": "Antonín /Maceček/",
         "given": "Antonín",
@@ -5969,14 +6308,15 @@
       }
     },
     {
-      "id": "o293_3",
+      "id": "o294_3",
       "name": "Bohuslav Maceček",
-      "row": 293,
+      "row": 294,
       "col": 3,
       "ged_ids": [
         "@I500304@"
       ],
       "ged_id": "@I500304@",
+      "match_type": "exact",
       "info": {
         "name": "Bohuslav /Maceček/",
         "given": "Bohuslav",
@@ -5991,14 +6331,15 @@
       }
     },
     {
-      "id": "o294_4",
+      "id": "o295_4",
       "name": "Daniel Maceček",
-      "row": 294,
+      "row": 295,
       "col": 4,
       "ged_ids": [
         "@I500306@"
       ],
       "ged_id": "@I500306@",
+      "match_type": "exact",
       "info": {
         "name": "Daniel /Maceček/",
         "given": "Daniel",
@@ -6013,14 +6354,15 @@
       }
     },
     {
-      "id": "o295_4",
+      "id": "o296_4",
       "name": "Richard Maceček",
-      "row": 295,
+      "row": 296,
       "col": 4,
       "ged_ids": [
         "@I500613@"
       ],
       "ged_id": "@I500613@",
+      "match_type": "exact",
       "info": {
         "name": "Richard /Maceček/",
         "given": "Richard",
@@ -6035,14 +6377,15 @@
       }
     },
     {
-      "id": "o296_3",
+      "id": "o297_3",
       "name": "Marie Hlavatá",
-      "row": 296,
+      "row": 297,
       "col": 3,
       "ged_ids": [
         "@I500308@"
       ],
       "ged_id": "@I500308@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Macečková/",
         "given": "Marie",
@@ -6059,23 +6402,25 @@
       }
     },
     {
-      "id": "o297_4",
+      "id": "o298_4",
       "name": "Markéta Čajová",
-      "row": 297,
+      "row": 298,
       "col": 4,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
-      "id": "o298_4",
+      "id": "o299_4",
       "name": "Lukáš Hlavatý",
-      "row": 298,
+      "row": 299,
       "col": 4,
       "ged_ids": [
         "@I500311@"
       ],
       "ged_id": "@I500311@",
+      "match_type": "exact",
       "info": {
         "name": "Lukáš /Hlavatý/",
         "given": "Lukáš",
@@ -6090,14 +6435,15 @@
       }
     },
     {
-      "id": "o299_1",
+      "id": "o300_1",
       "name": "Jaroslav Salamon",
-      "row": 299,
+      "row": 300,
       "col": 1,
       "ged_ids": [
         "@I500058@"
       ],
       "ged_id": "@I500058@",
+      "match_type": "exact",
       "info": {
         "name": "Jaroslav /Salamon/",
         "given": "Jaroslav",
@@ -6112,14 +6458,15 @@
       }
     },
     {
-      "id": "o300_2",
+      "id": "o301_2",
       "name": "Jaroslava Kalinová",
-      "row": 300,
+      "row": 301,
       "col": 2,
       "ged_ids": [
         "@I500059@"
       ],
       "ged_id": "@I500059@",
+      "match_type": "married",
       "info": {
         "name": "Jaroslava /Salamonová/",
         "given": "Jaroslava",
@@ -6136,14 +6483,15 @@
       }
     },
     {
-      "id": "o301_3",
+      "id": "o302_3",
       "name": "Markéta Kalinová",
-      "row": 301,
+      "row": 302,
       "col": 3,
       "ged_ids": [
         "@I500227@"
       ],
       "ged_id": "@I500227@",
+      "match_type": "exact",
       "info": {
         "name": "Markéta /Kalinová/",
         "given": "Markéta",
@@ -6158,14 +6506,15 @@
       }
     },
     {
-      "id": "o302_2",
+      "id": "o303_2",
       "name": "Marie Kožnarová",
-      "row": 302,
+      "row": 303,
       "col": 2,
       "ged_ids": [
         "@I500061@"
       ],
       "ged_id": "@I500061@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Salamonová/",
         "given": "Marie",
@@ -6182,26 +6531,28 @@
       }
     },
     {
-      "id": "o303_3",
+      "id": "o304_3",
       "name": "Roman Kožnar",
-      "row": 303,
+      "row": 304,
       "col": 3,
       "ged_ids": [
         "@I500229@",
         "@I500234@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
-      "id": "o304_4",
+      "id": "o305_4",
       "name": "Lucie Kožnarová",
-      "row": 304,
+      "row": 305,
       "col": 4,
       "ged_ids": [
         "@I500232@"
       ],
       "ged_id": "@I500232@",
+      "match_type": "exact",
       "info": {
         "name": "Lucie /Kožnarová/",
         "given": "Lucie",
@@ -6216,35 +6567,38 @@
       }
     },
     {
-      "id": "o305_5",
+      "id": "o306_5",
       "name": "Matyáš Veselík",
-      "row": 305,
+      "row": 306,
       "col": 5,
       "ged_ids": [],
       "ged_id": null,
+      "match_type": "unmatched",
       "info": {}
     },
     {
-      "id": "o306_4",
+      "id": "o307_4",
       "name": "Roman Kožnar",
-      "row": 306,
+      "row": 307,
       "col": 4,
       "ged_ids": [
         "@I500229@",
         "@I500234@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
-      "id": "o307_4",
+      "id": "o308_4",
       "name": "Barbora Kožnarová",
-      "row": 307,
+      "row": 308,
       "col": 4,
       "ged_ids": [
         "@I500235@"
       ],
       "ged_id": "@I500235@",
+      "match_type": "exact",
       "info": {
         "name": "Barbora /Kožnarova/",
         "given": "Barbora",
@@ -6259,14 +6613,15 @@
       }
     },
     {
-      "id": "o308_4",
+      "id": "o309_4",
       "name": "Petr Kožnar",
-      "row": 308,
+      "row": 309,
       "col": 4,
       "ged_ids": [
         "@I500236@"
       ],
       "ged_id": "@I500236@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Kožnar/",
         "given": "Petr",
@@ -6281,14 +6636,15 @@
       }
     },
     {
-      "id": "o309_3",
+      "id": "o310_3",
       "name": "Petra Lažová",
-      "row": 309,
+      "row": 310,
       "col": 3,
       "ged_ids": [
         "@I500231@"
       ],
       "ged_id": "@I500231@",
+      "match_type": "married",
       "info": {
         "name": "Petra /Kožnarová/",
         "given": "Petra",
@@ -6306,14 +6662,15 @@
       }
     },
     {
-      "id": "o310_4",
+      "id": "o311_4",
       "name": "Jakub Laža",
-      "row": 310,
+      "row": 311,
       "col": 4,
       "ged_ids": [
         "@I500237@"
       ],
       "ged_id": "@I500237@",
+      "match_type": "exact",
       "info": {
         "name": "Jakub /Laža/",
         "given": "Jakub",
@@ -6328,14 +6685,15 @@
       }
     },
     {
-      "id": "o311_4",
+      "id": "o312_4",
       "name": "Matěj Laža",
-      "row": 311,
+      "row": 312,
       "col": 4,
       "ged_ids": [
         "@I500239@"
       ],
       "ged_id": "@I500239@",
+      "match_type": "exact",
       "info": {
         "name": "Matěj /Laža/",
         "given": "Matěj",
@@ -6350,14 +6708,15 @@
       }
     },
     {
-      "id": "o312_4",
+      "id": "o313_4",
       "name": "Tomáš Laža",
-      "row": 312,
+      "row": 313,
       "col": 4,
       "ged_ids": [
         "@I500240@"
       ],
       "ged_id": "@I500240@",
+      "match_type": "exact",
       "info": {
         "name": "Tomáš /Laža/",
         "given": "Tomáš",
@@ -6372,14 +6731,15 @@
       }
     },
     {
-      "id": "o313_2",
+      "id": "o314_2",
       "name": "Pavel Salamon",
-      "row": 313,
+      "row": 314,
       "col": 2,
       "ged_ids": [
         "@I500062@"
       ],
       "ged_id": "@I500062@",
+      "match_type": "exact",
       "info": {
         "name": "Pavel /Salamon/",
         "given": "Pavel",
@@ -6394,14 +6754,15 @@
       }
     },
     {
-      "id": "o314_3",
+      "id": "o315_3",
       "name": "Tomáš Salamon",
-      "row": 314,
+      "row": 315,
       "col": 3,
       "ged_ids": [
         "@I500241@"
       ],
       "ged_id": "@I500241@",
+      "match_type": "exact",
       "info": {
         "name": "Tomáš /Salamon/",
         "given": "Tomáš",
@@ -6416,14 +6777,15 @@
       }
     },
     {
-      "id": "o315_4",
+      "id": "o316_4",
       "name": "Eliška Salamonová",
-      "row": 315,
+      "row": 316,
       "col": 4,
       "ged_ids": [
         "@I500245@"
       ],
       "ged_id": "@I500245@",
+      "match_type": "exact",
       "info": {
         "name": "Eliška /Salamonová/",
         "given": "Eliška",
@@ -6438,14 +6800,15 @@
       }
     },
     {
-      "id": "o316_4",
+      "id": "o317_4",
       "name": "Jan Salamon",
-      "row": 316,
+      "row": 317,
       "col": 4,
       "ged_ids": [
         "@I500247@"
       ],
       "ged_id": "@I500247@",
+      "match_type": "exact",
       "info": {
         "name": "Jan /Salamon/",
         "given": "Jan",
@@ -6460,14 +6823,15 @@
       }
     },
     {
-      "id": "o317_3",
+      "id": "o318_3",
       "name": "Luboš Salamon",
-      "row": 317,
+      "row": 318,
       "col": 3,
       "ged_ids": [
         "@I500243@"
       ],
       "ged_id": "@I500243@",
+      "match_type": "exact",
       "info": {
         "name": "Luboš /Salamon/",
         "given": "Luboš",
@@ -6482,36 +6846,27 @@
       }
     },
     {
-      "id": "o318_4",
+      "id": "o319_4",
       "name": "Luboš Salamon",
-      "row": 318,
+      "row": 319,
       "col": 4,
       "ged_ids": [
         "@I500243@"
       ],
-      "ged_id": "@I500243@",
-      "info": {
-        "name": "Luboš /Salamon/",
-        "given": "Luboš",
-        "surname": "Salamon",
-        "sex": "M",
-        "birth": "",
-        "birth_place": "",
-        "death": "",
-        "death_place": "",
-        "occupation": "",
-        "married_names": []
-      }
+      "ged_id": null,
+      "match_type": "ambiguous",
+      "info": {}
     },
     {
-      "id": "o319_3",
+      "id": "o320_3",
       "name": "Soňa Salamonová",
-      "row": 319,
+      "row": 320,
       "col": 3,
       "ged_ids": [
         "@I500244@"
       ],
       "ged_id": "@I500244@",
+      "match_type": "exact",
       "info": {
         "name": "Soňa /Salamonová/",
         "given": "Soňa",
@@ -6526,14 +6881,15 @@
       }
     },
     {
-      "id": "o320_0",
+      "id": "o321_0",
       "name": "Josef Salamon",
-      "row": 320,
+      "row": 321,
       "col": 0,
       "ged_ids": [
         "@I500225@"
       ],
       "ged_id": "@I500225@",
+      "match_type": "exact",
       "info": {
         "name": "Josef /Salamon/",
         "given": "Josef",
@@ -6548,14 +6904,15 @@
       }
     },
     {
-      "id": "o320_4",
+      "id": "o321_4",
       "name": "Filip Kocman",
-      "row": 320,
+      "row": 321,
       "col": 4,
       "ged_ids": [
         "@I500614@"
       ],
       "ged_id": "@I500614@",
+      "match_type": "exact",
       "info": {
         "name": "Filip /Kocman/",
         "given": "Filip",
@@ -6570,14 +6927,15 @@
       }
     },
     {
-      "id": "o321_1",
+      "id": "o322_1",
       "name": "František Salamon",
-      "row": 321,
+      "row": 322,
       "col": 1,
       "ged_ids": [
         "@I500249@"
       ],
       "ged_id": "@I500249@",
+      "match_type": "exact",
       "info": {
         "name": "František /Salamon/",
         "given": "František",
@@ -6592,14 +6950,15 @@
       }
     },
     {
-      "id": "o322_1",
+      "id": "o323_1",
       "name": "Vladislav Salamon",
-      "row": 322,
+      "row": 323,
       "col": 1,
       "ged_ids": [
         "@I500250@"
       ],
       "ged_id": "@I500250@",
+      "match_type": "exact",
       "info": {
         "name": "Vladislav /Salamon/",
         "given": "Vladislav",
@@ -6614,26 +6973,28 @@
       }
     },
     {
-      "id": "o323_1",
+      "id": "o324_1",
       "name": "Anna Slívová",
-      "row": 323,
+      "row": 324,
       "col": 1,
       "ged_ids": [
         "@I500251@",
         "@I500581@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
-      "id": "o324_2",
+      "id": "o325_2",
       "name": "Marie Dvorská",
-      "row": 324,
+      "row": 325,
       "col": 2,
       "ged_ids": [
         "@I500252@"
       ],
       "ged_id": "@I500252@",
+      "match_type": "married",
       "info": {
         "name": "Marie /Slívová/",
         "given": "Marie",
@@ -6650,14 +7011,15 @@
       }
     },
     {
-      "id": "o325_3",
+      "id": "o326_3",
       "name": "Alena Tešnarová",
-      "row": 325,
+      "row": 326,
       "col": 3,
       "ged_ids": [
         "@I500254@"
       ],
       "ged_id": "@I500254@",
+      "match_type": "married",
       "info": {
         "name": "Alena /Dvorská/",
         "given": "Alena",
@@ -6674,14 +7036,15 @@
       }
     },
     {
-      "id": "o326_4",
+      "id": "o327_4",
       "name": "Denisa Tešnarová",
-      "row": 326,
+      "row": 327,
       "col": 4,
       "ged_ids": [
         "@I500256@"
       ],
       "ged_id": "@I500256@",
+      "match_type": "exact",
       "info": {
         "name": "Denisa /Tešnarová/",
         "given": "Denisa",
@@ -6696,14 +7059,15 @@
       }
     },
     {
-      "id": "o327_2",
+      "id": "o328_2",
       "name": "Milada Mičietová",
-      "row": 327,
+      "row": 328,
       "col": 2,
       "ged_ids": [
         "@I500258@"
       ],
       "ged_id": "@I500258@",
+      "match_type": "married",
       "info": {
         "name": "Milada /Slívová/",
         "given": "Milada",
@@ -6720,14 +7084,15 @@
       }
     },
     {
-      "id": "o328_3",
+      "id": "o329_3",
       "name": "Anna Mičietová",
-      "row": 328,
+      "row": 329,
       "col": 3,
       "ged_ids": [
         "@I500259@"
       ],
       "ged_id": "@I500259@",
+      "match_type": "exact",
       "info": {
         "name": "Anna /Mičietová/",
         "given": "Anna",
@@ -6742,14 +7107,15 @@
       }
     },
     {
-      "id": "o329_3",
+      "id": "o330_3",
       "name": "Petr Mičieta",
-      "row": 329,
+      "row": 330,
       "col": 3,
       "ged_ids": [
         "@I500261@"
       ],
       "ged_id": "@I500261@",
+      "match_type": "exact",
       "info": {
         "name": "Petr /Mičieta/",
         "given": "Petr",
@@ -6764,14 +7130,15 @@
       }
     },
     {
-      "id": "o330_4",
+      "id": "o331_4",
       "name": "Veronika Mičietová",
-      "row": 330,
+      "row": 331,
       "col": 4,
       "ged_ids": [
         "@I500262@"
       ],
       "ged_id": "@I500262@",
+      "match_type": "exact",
       "info": {
         "name": "Veronika /Mičietová/",
         "given": "Veronika",
@@ -6786,94 +7153,15 @@
       }
     },
     {
-      "id": "o331_2",
+      "id": "o332_2",
       "name": "Vlasta Robenková",
-      "row": 331,
-      "col": 2,
-      "ged_ids": [
-        "@I500264@",
-        "@I500270@"
-      ],
-      "ged_id": null,
-      "info": {}
-    },
-    {
-      "id": "o332_3",
-      "name": "Irena Bařinová",
       "row": 332,
-      "col": 3,
-      "ged_ids": [
-        "@I500265@"
-      ],
-      "ged_id": "@I500265@",
-      "info": {
-        "name": "Irena /Robenková/",
-        "given": "Irena",
-        "surname": "Robenková",
-        "sex": "F",
-        "birth": "",
-        "birth_place": "",
-        "death": "",
-        "death_place": "",
-        "occupation": "",
-        "married_names": [
-          "Bařinová"
-        ]
-      }
-    },
-    {
-      "id": "o333_4",
-      "name": "Marie Bařinová",
-      "row": 333,
-      "col": 4,
-      "ged_ids": [
-        "@I500267@"
-      ],
-      "ged_id": "@I500267@",
-      "info": {
-        "name": "Marie /Bařinová/",
-        "given": "Marie",
-        "surname": "Bařinová",
-        "sex": "F",
-        "birth": "",
-        "birth_place": "",
-        "death": "",
-        "death_place": "",
-        "occupation": "",
-        "married_names": []
-      }
-    },
-    {
-      "id": "o334_4",
-      "name": "Aleš Mladenka",
-      "row": 334,
-      "col": 4,
-      "ged_ids": [
-        "@I500269@"
-      ],
-      "ged_id": "@I500269@",
-      "info": {
-        "name": "Aleš /Mladenka/",
-        "given": "Aleš",
-        "surname": "Mladenka",
-        "sex": "M",
-        "birth": "",
-        "birth_place": "",
-        "death": "",
-        "death_place": "",
-        "occupation": "",
-        "married_names": []
-      }
-    },
-    {
-      "id": "o335_3",
-      "name": "Vlasta Kubiczková",
-      "row": 335,
-      "col": 3,
+      "col": 2,
       "ged_ids": [
         "@I500270@"
       ],
       "ged_id": "@I500270@",
+      "match_type": "exact",
       "info": {
         "name": "Vlasta /Robenková/",
         "given": "Vlasta",
@@ -6890,26 +7178,111 @@
       }
     },
     {
-      "id": "o336_4",
-      "name": "František Kubiczek",
+      "id": "o333_3",
+      "name": "Irena Bařinová",
+      "row": 333,
+      "col": 3,
+      "ged_ids": [
+        "@I500265@"
+      ],
+      "ged_id": "@I500265@",
+      "match_type": "married",
+      "info": {
+        "name": "Irena /Robenková/",
+        "given": "Irena",
+        "surname": "Robenková",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": [
+          "Bařinová"
+        ]
+      }
+    },
+    {
+      "id": "o334_4",
+      "name": "Marie Bařinová",
+      "row": 334,
+      "col": 4,
+      "ged_ids": [
+        "@I500267@"
+      ],
+      "ged_id": "@I500267@",
+      "match_type": "exact",
+      "info": {
+        "name": "Marie /Bařinová/",
+        "given": "Marie",
+        "surname": "Bařinová",
+        "sex": "F",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": []
+      }
+    },
+    {
+      "id": "o335_4",
+      "name": "Aleš Mladenka",
+      "row": 335,
+      "col": 4,
+      "ged_ids": [
+        "@I500269@"
+      ],
+      "ged_id": "@I500269@",
+      "match_type": "exact",
+      "info": {
+        "name": "Aleš /Mladenka/",
+        "given": "Aleš",
+        "surname": "Mladenka",
+        "sex": "M",
+        "birth": "",
+        "birth_place": "",
+        "death": "",
+        "death_place": "",
+        "occupation": "",
+        "married_names": []
+      }
+    },
+    {
+      "id": "o336_3",
+      "name": "Vlasta Kubiczková",
       "row": 336,
+      "col": 3,
+      "ged_ids": [
+        "@I500270@"
+      ],
+      "ged_id": null,
+      "match_type": "ambiguous",
+      "info": {}
+    },
+    {
+      "id": "o337_4",
+      "name": "František Kubiczek",
+      "row": 337,
       "col": 4,
       "ged_ids": [
         "@I500271@",
         "@I500272@"
       ],
       "ged_id": null,
+      "match_type": "ambiguous",
       "info": {}
     },
     {
-      "id": "o337_4",
+      "id": "o338_4",
       "name": "Nikola Kubiczková",
-      "row": 337,
+      "row": 338,
       "col": 4,
       "ged_ids": [
         "@I500273@"
       ],
       "ged_id": "@I500273@",
+      "match_type": "exact",
       "info": {
         "name": "Nikola /Kubiczková/",
         "given": "Nikola",
@@ -7033,35 +7406,35 @@
     {
       "id": "p@F500025@_@I500056@_o2_0",
       "source": "o2_0",
-      "target": "o252_1",
+      "target": "o253_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
       "id": "p@F500025@_@I500056@_o50_0",
       "source": "o50_0",
-      "target": "o252_1",
+      "target": "o253_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500026@_@I500061@_o299_1",
-      "source": "o299_1",
-      "target": "o302_2",
+      "id": "p@F500026@_@I500061@_o300_1",
+      "source": "o300_1",
+      "target": "o303_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500026@_@I500059@_o299_1",
-      "source": "o299_1",
-      "target": "o300_2",
+      "id": "p@F500026@_@I500059@_o300_1",
+      "source": "o300_1",
+      "target": "o301_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500026@_@I500062@_o299_1",
-      "source": "o299_1",
-      "target": "o313_2",
+      "id": "p@F500026@_@I500062@_o300_1",
+      "source": "o300_1",
+      "target": "o314_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
@@ -7227,408 +7600,408 @@
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500078@_@I500249@_o320_0",
-      "source": "o320_0",
-      "target": "o321_1",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500078@_@I500250@_o320_0",
-      "source": "o320_0",
+      "id": "p@F500078@_@I500249@_o321_0",
+      "source": "o321_0",
       "target": "o322_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
+      "id": "p@F500078@_@I500250@_o321_0",
+      "source": "o321_0",
+      "target": "o323_1",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
       "id": "s@F500079@",
-      "source": "o320_0",
+      "source": "o321_0",
       "target": "o50_0",
       "type": "spouse",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500079@_@I500058@_o320_0",
-      "source": "o320_0",
-      "target": "o299_1",
+      "id": "p@F500079@_@I500058@_o321_0",
+      "source": "o321_0",
+      "target": "o300_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
       "id": "p@F500079@_@I500058@_o50_0",
       "source": "o50_0",
-      "target": "o299_1",
+      "target": "o300_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500079@_@I500057@_o320_0",
-      "source": "o320_0",
-      "target": "o267_1",
+      "id": "p@F500079@_@I500057@_o321_0",
+      "source": "o321_0",
+      "target": "o268_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
       "id": "p@F500079@_@I500057@_o50_0",
       "source": "o50_0",
-      "target": "o267_1",
+      "target": "o268_1",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500080@_@I500227@_o300_2",
-      "source": "o300_2",
-      "target": "o301_3",
+      "id": "p@F500080@_@I500227@_o301_2",
+      "source": "o301_2",
+      "target": "o302_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500081@_@I500231@_o302_2",
-      "source": "o302_2",
-      "target": "o309_3",
+      "id": "p@F500081@_@I500231@_o303_2",
+      "source": "o303_2",
+      "target": "o310_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500083@_@I500240@_o309_3",
-      "source": "o309_3",
-      "target": "o312_4",
+      "id": "p@F500083@_@I500240@_o310_3",
+      "source": "o310_3",
+      "target": "o313_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500083@_@I500237@_o309_3",
-      "source": "o309_3",
-      "target": "o310_4",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500083@_@I500239@_o309_3",
-      "source": "o309_3",
+      "id": "p@F500083@_@I500237@_o310_3",
+      "source": "o310_3",
       "target": "o311_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500084@_@I500241@_o313_2",
-      "source": "o313_2",
-      "target": "o314_3",
+      "id": "p@F500083@_@I500239@_o310_3",
+      "source": "o310_3",
+      "target": "o312_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500084@_@I500243@_o313_2",
-      "source": "o313_2",
-      "target": "o318_4",
+      "id": "p@F500084@_@I500241@_o314_2",
+      "source": "o314_2",
+      "target": "o315_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500084@_@I500244@_o313_2",
-      "source": "o313_2",
-      "target": "o319_3",
+      "id": "p@F500084@_@I500243@_o314_2",
+      "source": "o314_2",
+      "target": "o318_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500085@_@I500245@_o314_3",
-      "source": "o314_3",
-      "target": "o315_4",
+      "id": "p@F500084@_@I500244@_o314_2",
+      "source": "o314_2",
+      "target": "o320_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500085@_@I500247@_o314_3",
-      "source": "o314_3",
+      "id": "p@F500085@_@I500245@_o315_3",
+      "source": "o315_3",
       "target": "o316_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500087@_@I500254@_o324_2",
-      "source": "o324_2",
-      "target": "o325_3",
+      "id": "p@F500085@_@I500247@_o315_3",
+      "source": "o315_3",
+      "target": "o317_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500088@_@I500256@_o325_3",
-      "source": "o325_3",
-      "target": "o326_4",
+      "id": "p@F500087@_@I500254@_o325_2",
+      "source": "o325_2",
+      "target": "o326_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500089@_@I500259@_o327_2",
-      "source": "o327_2",
-      "target": "o328_3",
+      "id": "p@F500088@_@I500256@_o326_3",
+      "source": "o326_3",
+      "target": "o327_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500089@_@I500261@_o327_2",
-      "source": "o327_2",
+      "id": "p@F500089@_@I500259@_o328_2",
+      "source": "o328_2",
       "target": "o329_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500090@_@I500262@_o329_3",
-      "source": "o329_3",
-      "target": "o330_4",
+      "id": "p@F500089@_@I500261@_o328_2",
+      "source": "o328_2",
+      "target": "o330_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500092@_@I500267@_o332_3",
-      "source": "o332_3",
-      "target": "o333_4",
+      "id": "p@F500090@_@I500262@_o330_3",
+      "source": "o330_3",
+      "target": "o331_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500092@_@I500269@_o332_3",
-      "source": "o332_3",
+      "id": "p@F500092@_@I500267@_o333_3",
+      "source": "o333_3",
       "target": "o334_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500093@_@I500273@_o335_3",
-      "source": "o335_3",
-      "target": "o337_4",
+      "id": "p@F500092@_@I500269@_o333_3",
+      "source": "o333_3",
+      "target": "o335_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500094@_@I500274@_o267_1",
-      "source": "o267_1",
-      "target": "o268_2",
+      "id": "p@F500093@_@I500273@_o332_2",
+      "source": "o332_2",
+      "target": "o338_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500094@_@I500293@_o267_1",
-      "source": "o267_1",
-      "target": "o285_2",
+      "id": "p@F500094@_@I500274@_o268_1",
+      "source": "o268_1",
+      "target": "o269_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500094@_@I500284@_o267_1",
-      "source": "o267_1",
-      "target": "o276_2",
+      "id": "p@F500094@_@I500293@_o268_1",
+      "source": "o268_1",
+      "target": "o286_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500094@_@I500303@_o267_1",
-      "source": "o267_1",
-      "target": "o292_2",
+      "id": "p@F500094@_@I500284@_o268_1",
+      "source": "o268_1",
+      "target": "o277_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500095@_@I500276@_o268_2",
-      "source": "o268_2",
-      "target": "o269_3",
+      "id": "p@F500094@_@I500303@_o268_1",
+      "source": "o268_1",
+      "target": "o293_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500096@_@I500278@_o269_3",
-      "source": "o269_3",
-      "target": "o270_4",
+      "id": "p@F500095@_@I500276@_o269_2",
+      "source": "o269_2",
+      "target": "o270_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500096@_@I500283@_o269_3",
-      "source": "o269_3",
-      "target": "o273_4",
+      "id": "p@F500096@_@I500278@_o270_3",
+      "source": "o270_3",
+      "target": "o271_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500097@_@I500280@_o270_4",
-      "source": "o270_4",
-      "target": "o271_5",
+      "id": "p@F500096@_@I500283@_o270_3",
+      "source": "o270_3",
+      "target": "o274_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500097@_@I500282@_o270_4",
-      "source": "o270_4",
+      "id": "p@F500097@_@I500280@_o271_4",
+      "source": "o271_4",
       "target": "o272_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500098@_@I500290@_o276_2",
-      "source": "o276_2",
-      "target": "o283_3",
+      "id": "p@F500097@_@I500282@_o271_4",
+      "source": "o271_4",
+      "target": "o273_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500098@_@I500285@_o276_2",
-      "source": "o276_2",
-      "target": "o277_3",
+      "id": "p@F500098@_@I500290@_o277_2",
+      "source": "o277_2",
+      "target": "o284_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500099@_@I500289@_o277_3",
-      "source": "o277_3",
-      "target": "o281_4",
+      "id": "p@F500098@_@I500285@_o277_2",
+      "source": "o277_2",
+      "target": "o278_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500099@_@I500287@_o277_3",
-      "source": "o277_3",
-      "target": "o278_4",
+      "id": "p@F500099@_@I500289@_o278_3",
+      "source": "o278_3",
+      "target": "o282_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500100@_@I500291@_o283_3",
-      "source": "o283_3",
-      "target": "o284_4",
+      "id": "p@F500099@_@I500287@_o278_3",
+      "source": "o278_3",
+      "target": "o279_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500101@_@I500294@_o285_2",
-      "source": "o285_2",
-      "target": "o286_3",
+      "id": "p@F500100@_@I500291@_o284_3",
+      "source": "o284_3",
+      "target": "o285_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500101@_@I500298@_o285_2",
-      "source": "o285_2",
+      "id": "p@F500101@_@I500294@_o286_2",
+      "source": "o286_2",
       "target": "o287_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500101@_@I500302@_o285_2",
-      "source": "o285_2",
-      "target": "o291_3",
+      "id": "p@F500101@_@I500298@_o286_2",
+      "source": "o286_2",
+      "target": "o288_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500103@_@I500612@_o287_3",
-      "source": "o287_3",
-      "target": "o290_4",
+      "id": "p@F500101@_@I500302@_o286_2",
+      "source": "o286_2",
+      "target": "o292_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500103@_@I500299@_o287_3",
-      "source": "o287_3",
-      "target": "o288_4",
+      "id": "p@F500103@_@I500612@_o288_3",
+      "source": "o288_3",
+      "target": "o291_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500104@_@I500308@_o292_2",
-      "source": "o292_2",
-      "target": "o296_3",
+      "id": "p@F500103@_@I500299@_o288_3",
+      "source": "o288_3",
+      "target": "o289_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500104@_@I500304@_o292_2",
-      "source": "o292_2",
-      "target": "o293_3",
+      "id": "p@F500104@_@I500308@_o293_2",
+      "source": "o293_2",
+      "target": "o297_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500105@_@I500306@_o293_3",
-      "source": "o293_3",
-      "target": "o294_4",
+      "id": "p@F500104@_@I500304@_o293_2",
+      "source": "o293_2",
+      "target": "o294_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500105@_@I500613@_o293_3",
-      "source": "o293_3",
+      "id": "p@F500105@_@I500306@_o294_3",
+      "source": "o294_3",
       "target": "o295_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500106@_@I500311@_o296_3",
-      "source": "o296_3",
-      "target": "o298_4",
+      "id": "p@F500105@_@I500613@_o294_3",
+      "source": "o294_3",
+      "target": "o296_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500107@_@I500320@_o252_1",
-      "source": "o252_1",
-      "target": "o259_2",
+      "id": "p@F500106@_@I500311@_o297_3",
+      "source": "o297_3",
+      "target": "o299_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500109@_@I500317@_o255_3",
-      "source": "o255_3",
-      "target": "o256_4",
+      "id": "p@F500107@_@I500320@_o253_1",
+      "source": "o253_1",
+      "target": "o260_2",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500109@_@I500319@_o255_3",
-      "source": "o255_3",
-      "target": "o258_4",
+      "id": "p@F500109@_@I500317@_o256_3",
+      "source": "o256_3",
+      "target": "o257_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500110@_@I500323@_o259_2",
-      "source": "o259_2",
+      "id": "p@F500109@_@I500319@_o256_3",
+      "source": "o256_3",
+      "target": "o259_4",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500110@_@I500323@_o260_2",
+      "source": "o260_2",
+      "target": "o262_3",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500110@_@I500324@_o260_2",
+      "source": "o260_2",
+      "target": "o264_3",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500110@_@I500321@_o260_2",
+      "source": "o260_2",
       "target": "o261_3",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500110@_@I500324@_o259_2",
-      "source": "o259_2",
-      "target": "o263_3",
+      "id": "p@F500111@_@I500325@_o262_3",
+      "source": "o262_3",
+      "target": "o263_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500110@_@I500321@_o259_2",
-      "source": "o259_2",
-      "target": "o260_3",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500111@_@I500325@_o261_3",
-      "source": "o261_3",
-      "target": "o262_4",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500112@_@I500327@_o263_3",
-      "source": "o263_3",
-      "target": "o264_4",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500112@_@I500329@_o263_3",
-      "source": "o263_3",
+      "id": "p@F500112@_@I500327@_o264_3",
+      "source": "o264_3",
       "target": "o265_4",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500112@_@I500329@_o264_3",
+      "source": "o264_3",
+      "target": "o266_4",
       "type": "parent",
       "source_data": "GEDCOM"
     },
@@ -8074,6 +8447,27 @@
       "source_data": "GEDCOM"
     },
     {
+      "id": "p@F500163@_@I500498@_o101_2",
+      "source": "o101_2",
+      "target": "o102_3",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500163@_@I500500@_o101_2",
+      "source": "o101_2",
+      "target": "o104_4",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500163@_@I500501@_o101_2",
+      "source": "o101_2",
+      "target": "o105_4",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
       "id": "p@F500164@_@I500503@_o107_2",
       "source": "o107_2",
       "target": "o108_3",
@@ -8389,51 +8783,51 @@
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500199@_@I500606@_o273_4",
-      "source": "o273_4",
+      "id": "p@F500199@_@I500606@_o274_4",
+      "source": "o274_4",
+      "target": "o276_5",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500199@_@I500604@_o274_4",
+      "source": "o274_4",
       "target": "o275_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500199@_@I500604@_o273_4",
-      "source": "o273_4",
-      "target": "o274_5",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500200@_@I500607@_o278_4",
-      "source": "o278_4",
-      "target": "o279_5",
-      "type": "parent",
-      "source_data": "GEDCOM"
-    },
-    {
-      "id": "p@F500200@_@I500609@_o278_4",
-      "source": "o278_4",
+      "id": "p@F500200@_@I500607@_o279_4",
+      "source": "o279_4",
       "target": "o280_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500201@_@I500610@_o281_4",
-      "source": "o281_4",
-      "target": "o282_5",
+      "id": "p@F500200@_@I500609@_o279_4",
+      "source": "o279_4",
+      "target": "o281_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500202@_@I500614@_o319_3",
-      "source": "o319_3",
-      "target": "o320_4",
+      "id": "p@F500201@_@I500610@_o282_4",
+      "source": "o282_4",
+      "target": "o283_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
     {
-      "id": "p@F500203@_@I500616@_o256_4",
-      "source": "o256_4",
-      "target": "o257_5",
+      "id": "p@F500202@_@I500614@_o320_3",
+      "source": "o320_3",
+      "target": "o321_4",
+      "type": "parent",
+      "source_data": "GEDCOM"
+    },
+    {
+      "id": "p@F500203@_@I500616@_o257_4",
+      "source": "o257_4",
+      "target": "o258_5",
       "type": "parent",
       "source_data": "GEDCOM"
     },
@@ -8679,13 +9073,6 @@
       "id": "oo101_2",
       "source": "o53_1",
       "target": "o101_2",
-      "type": "parent_ods",
-      "source_data": "ODS hierarchy"
-    },
-    {
-      "id": "oo102_3",
-      "source": "o101_2",
-      "target": "o102_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
@@ -9187,160 +9574,169 @@
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo253_2",
-      "source": "o252_1",
-      "target": "o253_2",
+      "id": "oo252_5",
+      "source": "o250_4",
+      "target": "o252_5",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo254_3",
-      "source": "o253_2",
-      "target": "o254_3",
+      "id": "oo254_2",
+      "source": "o253_1",
+      "target": "o254_2",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
       "id": "oo255_3",
-      "source": "o253_2",
+      "source": "o254_2",
       "target": "o255_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo266_2",
-      "source": "o252_1",
-      "target": "o266_2",
+      "id": "oo256_3",
+      "source": "o254_2",
+      "target": "o256_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo289_4",
-      "source": "o287_3",
-      "target": "o289_4",
+      "id": "oo267_2",
+      "source": "o253_1",
+      "target": "o267_2",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo297_4",
-      "source": "o296_3",
-      "target": "o297_4",
+      "id": "oo290_4",
+      "source": "o288_3",
+      "target": "o290_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo303_3",
-      "source": "o302_2",
-      "target": "o303_3",
+      "id": "oo298_4",
+      "source": "o297_3",
+      "target": "o298_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo304_4",
-      "source": "o303_3",
-      "target": "o304_4",
+      "id": "oo304_3",
+      "source": "o303_2",
+      "target": "o304_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo305_5",
-      "source": "o304_4",
-      "target": "o305_5",
+      "id": "oo305_4",
+      "source": "o304_3",
+      "target": "o305_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo306_4",
-      "source": "o303_3",
-      "target": "o306_4",
+      "id": "oo306_5",
+      "source": "o305_4",
+      "target": "o306_5",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
       "id": "oo307_4",
-      "source": "o303_3",
+      "source": "o304_3",
       "target": "o307_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
       "id": "oo308_4",
-      "source": "o303_3",
+      "source": "o304_3",
       "target": "o308_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo317_3",
-      "source": "o313_2",
-      "target": "o317_3",
+      "id": "oo309_4",
+      "source": "o304_3",
+      "target": "o309_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo318_4",
-      "source": "o317_3",
-      "target": "o318_4",
+      "id": "oo319_4",
+      "source": "o318_3",
+      "target": "o319_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo323_1",
-      "source": "o320_0",
-      "target": "o323_1",
+      "id": "oo324_1",
+      "source": "o321_0",
+      "target": "o324_1",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo324_2",
-      "source": "o323_1",
-      "target": "o324_2",
+      "id": "oo325_2",
+      "source": "o324_1",
+      "target": "o325_2",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo327_2",
-      "source": "o323_1",
-      "target": "o327_2",
+      "id": "oo328_2",
+      "source": "o324_1",
+      "target": "o328_2",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo331_2",
-      "source": "o323_1",
-      "target": "o331_2",
+      "id": "oo332_2",
+      "source": "o324_1",
+      "target": "o332_2",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo332_3",
-      "source": "o331_2",
-      "target": "o332_3",
+      "id": "oo333_3",
+      "source": "o332_2",
+      "target": "o333_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo335_3",
-      "source": "o331_2",
-      "target": "o335_3",
+      "id": "oo336_3",
+      "source": "o332_2",
+      "target": "o336_3",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     },
     {
-      "id": "oo336_4",
-      "source": "o335_3",
-      "target": "o336_4",
+      "id": "oo337_4",
+      "source": "o336_3",
+      "target": "o337_4",
+      "type": "parent_ods",
+      "source_data": "ODS hierarchy"
+    },
+    {
+      "id": "oo338_4",
+      "source": "o336_3",
+      "target": "o338_4",
       "type": "parent_ods",
       "source_data": "ODS hierarchy"
     }
   ],
   "stats": {
-    "ods_person_cells": 336,
-    "ods_distinct_names": 313,
+    "ods_person_cells": 337,
+    "ods_distinct_names": 314,
     "ged_people": 634,
     "ged_families": 210,
-    "matched_unique": 277,
-    "ambiguous": 47,
-    "unmatched": 12
+    "matched_unique": 280,
+    "ambiguous": 44,
+    "unmatched": 13,
+    "matched_exact": 220,
+    "matched_married_name": 65
   }
 }
