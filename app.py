@@ -26,8 +26,10 @@ for fname in ["Strom.jpg", "Strom.png", "strom.jpg", "strom.png"]:
         break
 
 st.set_page_config(page_title="Rodokmen", page_icon="🌳", layout="wide")
-st.title("🌳 Rodokmen")
-st.caption("Interaktivní rodokmen s vycentrovaným tiskem na střed stránky.")
+
+# Požadovaný nadpis
+st.subheader("Potomci a rodina Terezie Mendřické, Olšákové, Salamonové roz. Slívové")
+st.caption("Interaktivní rodokmen s možností zobrazení potomků, předků nebo celého rodokmenu.")
 
 # ------------------------------------------------------------
 # VZTAHY A VAZEBNÍ LOGIKA
@@ -56,7 +58,7 @@ root_candidates = [n for n in NODES if n.get("name") == "Terezie Slívová"]
 ROOT_ID = root_candidates[0]["id"] if root_candidates else (NODES[0]["id"] if NODES else None)
 
 # ------------------------------------------------------------
-# PODSTROM
+# PODSTROMY (POTOMCI A PŘEDKOVÉ)
 # ------------------------------------------------------------
 
 def ods_subtree(start_id, generations=4):
@@ -72,6 +74,35 @@ def ods_subtree(start_id, generations=4):
             for c_id in children.get(p_id, []):
                 if c_id not in visited:
                     next_level.add(c_id)
+            for s_id in spouses.get(p_id, []):
+                if s_id not in visited:
+                    next_level.add(s_id)
+        if not next_level:
+            break
+        visited.update(next_level)
+        current_level = next_level
+
+    extra_spouses = set()
+    for p_id in visited:
+        for s_id in spouses.get(p_id, []):
+            extra_spouses.add(s_id)
+    visited.update(extra_spouses)
+
+    return visited
+
+def ods_ancestors_subtree(start_id, generations=4):
+    if not start_id or start_id not in byid:
+        return set(byid.keys())
+
+    visited = {start_id}
+    current_level = {start_id}
+
+    for _ in range(generations):
+        next_level = set()
+        for p_id in current_level:
+            for par_id in parents.get(p_id, []):
+                if par_id not in visited:
+                    next_level.add(par_id)
             for s_id in spouses.get(p_id, []):
                 if s_id not in visited:
                     next_level.add(s_id)
@@ -107,11 +138,15 @@ default_index = person_ids.index(ROOT_ID) if ROOT_ID in person_ids else 0
 
 with st.sidebar:
     st.header("Zobrazení")
-    mode = st.radio("Rozsah", ["Celý rodokmen", "Od vybrané osoby"], index=0)
+    mode = st.radio(
+        "Rozsah",
+        ["Celý rodokmen", "Potomci (od vybrané osoby)", "Předkové (strom předků)"],
+        index=0,
+    )
     selected = None
     generations = 4
 
-    if mode == "Od vybrané osoby":
+    if mode != "Celý rodokmen":
         selected = st.selectbox("Vyber osobu", person_ids, index=default_index, format_func=person_label)
         generations = st.slider("Počet generací", min_value=1, max_value=8, value=4)
 
@@ -121,17 +156,24 @@ with st.sidebar:
 # FILTROVÁNÍ DATA
 # ------------------------------------------------------------
 
-keep = set(byid.keys()) if mode == "Celý rodokmen" else ods_subtree(selected, generations)
+if mode == "Celý rodokmen":
+    keep = set(byid.keys())
+elif mode == "Potomci (od vybrané osoby)":
+    keep = ods_subtree(selected, generations)
+else:
+    keep = ods_ancestors_subtree(selected, generations)
+
 subnodes = [n for n in NODES if n["id"] in keep]
 subedges = [e for e in EDGES if e.get("source") in keep and e.get("target") in keep]
 
-st.subheader(f"{mode} · {len(subnodes)} osob")
+st.markdown(f"**Režim:** {mode} · **Zobrazeno osob:** {len(subnodes)}")
 
 payload = json.dumps({
     "nodes": subnodes,
     "edges": subedges,
     "selected": selected,
     "root": ROOT_ID,
+    "mode": mode,
     "bg_base64": bg_base64
 }, ensure_ascii=False)
 
@@ -217,7 +259,6 @@ svg:active { cursor: grabbing; }
 }
 #tools button:hover { background: #eef4ee; }
 
-/* TISKOVÉ STYLY */
 @media print {
     #tools, #info { display: none !important; }
     html, body, #wrap {
@@ -227,10 +268,7 @@ svg:active { cursor: grabbing; }
         -webkit-print-color-adjust: exact !important;
         print-color-adjust: exact !important;
     }
-    svg {
-        width: 100% !important;
-        height: 100% !important;
-    }
+    svg { width: 100% !important; height: 100% !important; }
 }
 </style>
 </head>
@@ -278,14 +316,24 @@ try {
     const rawEdges = data.edges;
 
     const nodeMap = new Map(rawNodes.map(n => [n.id, { ...n, children: [] }]));
-    let rootNode = nodeMap.get(data.root) || nodeMap.get(data.selected) || nodeMap.values().next().value;
+    let rootNode = nodeMap.get(data.selected) || nodeMap.get(data.root) || nodeMap.values().next().value;
 
+    // Sestavení hierarchie podle zvoleného módu (Potomci vs. Předkové)
     rawEdges.forEach(e => {
         if (e.type !== "spouse" && nodeMap.has(e.source) && nodeMap.has(e.target)) {
             const parent = nodeMap.get(e.source);
             const child = nodeMap.get(e.target);
-            if (!parent.children.includes(child)) {
-                parent.children.push(child);
+
+            if (data.mode === "Předkové (strom předků)") {
+                // U předků chceme, aby dítě mělo ve svých 'children' své rodiče (směrem nahoru)
+                if (!child.children.includes(parent)) {
+                    child.children.push(parent);
+                }
+            } else {
+                // Standardní směr: rodič má v 'children' své potomky
+                if (!parent.children.includes(child)) {
+                    parent.children.push(child);
+                }
             }
         }
     });
@@ -294,6 +342,15 @@ try {
     const treeLayout = d3.tree().nodeSize([220, 140]);
 
     treeLayout(hierarchy);
+
+    // Pokud jde o předky, invertujeme svislou osu Y, aby hlavní osoba byla dole a předkové nahoře
+    if (data.mode === "Předkové (strom předků)") {
+        const descendants = hierarchy.descendants();
+        const maxY = d3.max(descendants, d => d.y);
+        descendants.forEach(d => {
+            d.y = maxY - d.y;
+        });
+    }
 
     const nodes = hierarchy.descendants();
     const links = hierarchy.links();
@@ -333,7 +390,7 @@ try {
             .attr("text-anchor", "middle")
             .attr("font-size", currentFontSize + "px");
 
-        const words = String(d.data.name || "Neznámý").split(/\s+/);
+        const words = String(d.data.name || "Neznámý").split(/\\s+/);
         let lines = [""];
 
         words.forEach(word => {
@@ -386,7 +443,6 @@ try {
         );
     }
 
-    /* VYCENTROVANÝ TISK */
     function printTree() {
         const oldTransform = d3.zoomTransform(svg.node());
         g.attr("transform", "translate(0,0)");
