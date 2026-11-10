@@ -31,6 +31,9 @@ st.set_page_config(page_title="Rodokmen", page_icon="🌳", layout="wide")
 st.subheader("Potomci a rodina Terezie Mendřické, Olšákové, Salamonové roz. Slívové")
 st.caption("Interaktivní rodokmen s možností zobrazení potomků, předků nebo celého rodokmenu.")
 
+# Záložky aplikace
+tab_tree, tab_history = st.tabs(["🌳 Interaktivní rodokmen", "📜 Historie rodu"])
+
 # ------------------------------------------------------------
 # VZTAHY A VAZEBNÍ LOGIKA
 # ------------------------------------------------------------
@@ -153,35 +156,32 @@ with st.sidebar:
     st.divider()
 
 # ------------------------------------------------------------
-# FILTROVÁNÍ DATA
+# ZÁLOŽKA 1: RODOKMEN
 # ------------------------------------------------------------
 
-if mode == "Celý rodokmen":
-    keep = set(byid.keys())
-elif mode == "Potomci (od vybrané osoby)":
-    keep = ods_subtree(selected, generations)
-else:
-    keep = ods_ancestors_subtree(selected, generations)
+with tab_tree:
+    if mode == "Celý rodokmen":
+        keep = set(byid.keys())
+    elif mode == "Potomci (od vybrané osoby)":
+        keep = ods_subtree(selected, generations)
+    else:
+        keep = ods_ancestors_subtree(selected, generations)
 
-subnodes = [n for n in NODES if n["id"] in keep]
-subedges = [e for e in EDGES if e.get("source") in keep and e.get("target") in keep]
+    subnodes = [n for n in NODES if n["id"] in keep]
+    subedges = [e for e in EDGES if e.get("source") in keep and e.get("target") in keep]
 
-st.markdown(f"**Režim:** {mode} · **Zobrazeno osob:** {len(subnodes)}")
+    st.markdown(f"**Režim:** {mode} · **Zobrazeno osob:** {len(subnodes)}")
 
-payload = json.dumps({
-    "nodes": subnodes,
-    "edges": subedges,
-    "selected": selected,
-    "root": ROOT_ID,
-    "mode": mode,
-    "bg_base64": bg_base64
-}, ensure_ascii=False)
+    payload = json.dumps({
+        "nodes": subnodes,
+        "edges": subedges,
+        "selected": selected,
+        "root": ROOT_ID,
+        "mode": mode,
+        "bg_base64": bg_base64
+    }, ensure_ascii=False)
 
-# ------------------------------------------------------------
-# D3 HTML ŠABLONA
-# ------------------------------------------------------------
-
-html_template = """<!doctype html>
+    html_template = """<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -318,19 +318,16 @@ try {
     const nodeMap = new Map(rawNodes.map(n => [n.id, { ...n, children: [] }]));
     let rootNode = nodeMap.get(data.selected) || nodeMap.get(data.root) || nodeMap.values().next().value;
 
-    // Sestavení hierarchie podle zvoleného módu (Potomci vs. Předkové)
     rawEdges.forEach(e => {
         if (e.type !== "spouse" && nodeMap.has(e.source) && nodeMap.has(e.target)) {
             const parent = nodeMap.get(e.source);
             const child = nodeMap.get(e.target);
 
             if (data.mode === "Předkové (strom předků)") {
-                // U předků chceme, aby dítě mělo ve svých 'children' své rodiče (směrem nahoru)
                 if (!child.children.includes(parent)) {
                     child.children.push(parent);
                 }
             } else {
-                // Standardní směr: rodič má v 'children' své potomky
                 if (!parent.children.includes(child)) {
                     parent.children.push(child);
                 }
@@ -343,7 +340,6 @@ try {
 
     treeLayout(hierarchy);
 
-    // Pokud jde o předky, invertujeme svislou osu Y, aby hlavní osoba byla dole a předkové nahoře
     if (data.mode === "Předkové (strom předků)") {
         const descendants = hierarchy.descendants();
         const maxY = d3.max(descendants, d => d.y);
@@ -390,6 +386,7 @@ try {
             .attr("text-anchor", "middle")
             .attr("font-size", currentFontSize + "px");
 
+        // Správná eskapovaná sekvence \\s+ zabraňuje SyntaxWarning v Pythonu
         const words = String(d.data.name || "Neznámý").split(/\\s+/);
         let lines = [""];
 
@@ -502,5 +499,17 @@ try {
 </body>
 </html>"""
 
-html = html_template.replace("__PAYLOAD__", payload)
-components.html(html, height=800, scrolling=False)
+    html = html_template.replace("__PAYLOAD__", payload)
+    components.html(html, height=800, scrolling=False)
+
+# ------------------------------------------------------------
+# ZÁLOŽKA 2: HISTORIE RODU (Historie_rodu.txt)
+# ------------------------------------------------------------
+
+with tab_history:
+    history_file = BASE / "Historie_rodu.txt"
+    if history_file.exists():
+        content = history_file.read_text(encoding="utf-8")
+        st.text_area("Historie rodu", content, height=650)
+    else:
+        st.info("Soubor `Historie_rodu.txt` nebyl v adresáři se skriptem nalezen.")
